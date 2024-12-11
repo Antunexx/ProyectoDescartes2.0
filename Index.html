@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa con Capas GeoJSON</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+        #controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+        #toggleAllButton {
+            display: block;
+            margin: 5px 0;
+            padding: 5px 10px;
+            background: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #toggleAllButton:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="controls">
+        <button id="toggleAllButton">Colectivos</button>
+    </div>
+    <script>
+        // Inicializar el mapa
+        const map = L.map('map').setView([-31.41, -64.18], 12);
+
+        // Agregar un mapa base
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+    // Crear capas GeoJSON
+
+
+    // Capa ENTIDADES CON SEDE
+    const capaENTIDADESCONSEDE = L.geoJSON(null, {
+        onEachFeature: (feature, layer) => {
+            const emojiCasa = '🏠'; // Emoji de casa
+            layer.bindPopup(`Información: ${feature.properties.nombre || 'Sin nombre'}`);
+            layer.setIcon(L.divIcon({
+                className: 'custom-icon',
+                html: `<div style="font-size: 30px;">${emojiCasa}</div>`
+            }));
+        },
+        style: { color: 'blue', weight: 2 }
+    });
+
+        // Capa para Centros de Salud
+    const capaCentrosSalud = L.geoJSON(null, {
+        pointToLayer: function(feature, latlng) {
+            let emoji = '🏥'; // Predeterminado
+            const nombre = feature.properties.name || '';
+                
+        // Determinar el emoji según el nombre
+            if (nombre.includes('CS')) {
+                emoji = '⚕️'; // Centros de Salud
+            } else if (nombre.includes('HOSPITAL')) {
+                emoji = '🏨'; // Hospitales
+            } else if (nombre.includes('DEM')) {
+                emoji = '🚑'; // Dem
+            } else if (nombre.includes('HEMOCENTRO')) {
+                emoji = '🩸'; // Hemocentro
+            } else if (nombre.includes('SERVICIO')) {
+                emoji = '🦷'; // Servicio
+            } else if (nombre.includes('HOGAR')) {
+                emoji = '💉'; // Hogar
+                
+            }
+        // Crear un marcador personalizado con el emoji
+            return L.marker(latlng, {
+                icon: L.divIcon({
+                    className: 'custom-icon',
+                    html: `<div style="font-size: 24px;">${emoji}</div>`
+                })
+            });
+        },
+
+        onEachFeature: function(feature, layer) {
+            const nombre = feature.properties.name || 'Sin nombre';
+            const descripcion = feature.properties.description || 'Sin descripción';
+            layer.bindPopup(`<b>${nombre}</b><br>${descripcion}`);
+        }
+    });                
+
+    // Capa ENTIDADES SIN SEDE
+    const capaENTIDADESSINSEDE = L.geoJSON(null, {
+        onEachFeature: (feature, layer) => {
+            const emojiCasa = '🏚️'; // Emoji de casa
+            layer.bindPopup(`Información: ${feature.properties.nombre || 'Sin nombre'}`);
+            layer.setIcon(L.divIcon({
+                className: 'custom-icon',
+                html: `<div style="font-size: 30px;">${emojiCasa}</div>`
+            }));
+        },
+        style: { color: 'green', weight: 2 }
+    });
+    
+    const capaSemaforos = L.geoJSON(null, {
+    pointToLayer: (feature, latlng) => {
+        // Crear un marcador personalizado con el emoji de semáforo
+        return L.marker(latlng, {
+            icon: L.divIcon({
+                className: 'custom-icon',
+                html: `<div style="font-size: 14px;">🚦</div>` // Emoji de semáforo
+            })
+        });
+    },
+    onEachFeature: (feature, layer) => {
+        layer.bindPopup(`Semáforo: ${feature.properties.Name || 'NoName'}`);
+    }
+});
+
+const capaIndicadores = L.geoJSON(null, {
+    onEachFeature: (feature, layer) => {
+        if (feature.geometry) {
+            const props = feature.properties;
+            const popupContent = `
+                <strong>Datos del Indicador:</strong><br>
+                <strong>Población total:</strong> ${props["Población total"] || "N/A"}<br>
+                <strong>Total de hogares:</strong> ${props["Total de hogares"] || "N/A"}<br>
+                <strong>Total de mujeres (en hogares familiares).:</strong> ${props["Total de mujeres (en hogares familiares)."] || "N/A"}<br>
+                <strong>Total de varones (en hogares familiares).:</strong> ${props["otal de varones (en hogares familiares)."] || "N/A"}<br>
+            `;
+            layer.bindPopup(popupContent);
+        } else {
+            console.warn("Feature sin geometría:", feature);
+        }
+    }
+});
+
+    const capaBarrios = L.geoJSON(null, {
+        style: (feature) => {
+            return feature.properties.TipoBarrio === "BarrioOficial"
+                ? { color: "green", weight: 2, fillOpacity: 0.5 }
+                : { color: "red", weight: 2, fillOpacity: 0.5 };
+        },
+        onEachFeature: (feature, layer) => {
+            layer.bindPopup(`Nombre: ${feature.properties.Nombre || "Sin nombre"}<br>Tipo: ${feature.properties.TipoBarrio || "Desconocido"}`);
+        }
+    });
+    
+    const capaEscuelasPrimarias = L.geoJSON(null, {
+    pointToLayer: function(feature, latlng) {
+        const emojiEscuela = '🏫'; // Emoji de escuela
+        return L.marker(latlng, {
+            icon: L.divIcon({
+                className: 'custom-icon',
+                html: `<div style="font-size: 30px;">${emojiEscuela}</div>`
+            })
+        });
+    },
+    onEachFeature: function(feature, layer) {
+        const nombre = feature.properties.name || 'Sin nombre';
+        const descripcion = feature.properties.description || 'Sin descripción';
+        layer.bindPopup(`<b>${nombre}</b><br>${descripcion}`);
+    }
+});
+
+    // Crear grupo para corredores de colectivos
+    const grupoColectivos = L.layerGroup();
+    const grupoCPC = L.layerGroup().addTo(map);
+
+    // Subcapas de corredores
+    const subcapasColectivos = {};
+    const coloresColectivos = [
+        'orange', 'blue', "red"
+    ];
+
+    // Función para cargar corredores como subcapas
+    function cargarSubcapa(nombreArchivo, nombreCapa, color) {
+        fetch(nombreArchivo)
+            .then(res => {
+                if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+                return res.json();
+            })
+            .then(data => {
+                const subcapa = L.geoJSON(data, {
+                    style: { color: color, weight: 2 },
+                    onEachFeature: (feature, layer) => {
+                        const nombre = feature.properties.Name || "Sin Nombre";
+                        layer.bindPopup(`Línea: ${nombre}`);
+                    }
+                });
+
+                // Añadir subcapa al grupo y al control de capas
+                subcapasColectivos[nombreCapa] = subcapa;
+                grupoColectivos.addLayer(subcapa);
+                controlColectivos.addOverlay(subcapa, `Colectivo - ${nombreCapa}`);
+            })
+            .catch(error => console.error(`Error al cargar ${nombreArchivo}:`, error));
+    }
+
+    // Cargar datos GeoJSON
+    fetch('ENTIDADES_CON_SEDES.geojson')
+        .then(res => res.json())
+        .then(data => capaENTIDADESCONSEDE.addData(data));
+
+    fetch('ENTIDADES_SIN_SEDE.geojson')
+        .then(res => res.json())
+        .then(data => capaENTIDADESSINSEDE.addData(data));
+
+    fetch('semaforos_corregido.geojson')
+        .then(res => res.json())
+        .then(data => capaSemaforos.addData(data));
+    
+    fetch('Barrios.geojson')
+        .then(res => res.json())
+        .then(data => capaBarrios.addData(data))
+        .catch(error => console.error("Error al cargar el archivo GeoJSON:", error));
+
+        // Cargar los datos de escuelas primarias desde el archivo GeoJSON
+    fetch('escuelasprim.geojson')
+        .then(res => {
+            if (!res.ok) {
+                throw new Error(`Error al cargar el archivo: ${res.status}`);
+            }
+            return res.json();
+        })
+        .then(data => capaEscuelasPrimarias.addData(data))
+        .catch(error => console.error("Error al cargar escuelasprim.geojson:", error));
+
+        // Cargar el archivo indie.geojson y agregarlo a la capa
+    fetch("Indie_fixed.geojson")
+        .then(response => response.json())
+        .then(data => {
+            capaIndicadores.addData(data);
+        })
+        .catch(error => console.error("Error al cargar el archivo indie.geojson:", error));
+
+
+        // Cargar los datos de Centros de Salud desde el archivo GeoJSON
+    fetch('CSYH.geojson')
+        .then(res => {
+            if (!res.ok) {
+                throw new Error(`Error al cargar el archivo: ${res.status}`);
+            }
+            return res.json();
+        })
+        .then(data => capaCentrosSalud.addData(data))
+        .catch(error => console.error("Error al cargar CSYH.geojson:", error));
+        
+
+    // Cargar datos principales
+    const capasPrincipales = {
+        "Semáforos": capaSemaforos,
+        "Barrios": capaBarrios
+    };
+    // Agregar la capa Indicadores al mapa con un control de capas
+    const overlays = {
+    "Indicadores": capaIndicadores,
+    };
+    L.control.layers(null, overlays).addTo(map);
+
+    // Control de capas principales
+    L.control.layers(null, capasPrincipales, { collapsed: false }).addTo(map);
+    const controlCapas = L.control.layers(null, null, { collapsed: false }).addTo(map);
+    controlCapas.addOverlay(capaEscuelasPrimarias, "Escuelas Primarias");
+    capaEscuelasPrimarias.addTo(map);
+
+    controlCapas.addOverlay(capaENTIDADESCONSEDE, "ENTIDADES CON SEDE");
+    capaENTIDADESCONSEDE.addTo(map);
+
+    controlCapas.addOverlay(capaENTIDADESSINSEDE, "ENTIDADES SIN SEDE");
+    capaENTIDADESSINSEDE.addTo(map);
+    // Control de capas para colectivos
+    const controlColectivos = L.control.layers(null, null, { collapsed: false }).addTo(map);
+    
+    
+    // Agregar la capa al control de capas
+    controlCapas.addOverlay(capaCentrosSalud, "Centros de Salud");
+
+    // Añadir la capa al mapa por defecto
+    capaCentrosSalud.addTo(map);
+    
+    // Cargar corredores de colectivos con colores distintos
+    cargarSubcapa('Corredor_1_Coniferal.geojson', 'Línea 10', coloresColectivos[0]);
+    cargarSubcapa('Corredor_2_ERSA.geojson', 'Línea 20', coloresColectivos[2]);
+    cargarSubcapa('Corredor_3_Coniferal.geojson', 'Línea 30', coloresColectivos[0]);
+    cargarSubcapa('Corredor_3_TAMSE.geojson', 'Línea 40', coloresColectivos[1]);
+    cargarSubcapa('Corredor_4_ERSA.geojson', 'Línea 50', coloresColectivos[2]);
+    cargarSubcapa('Corredor_6_Coniferal.geojson', 'Línea 60', coloresColectivos[0]);
+    cargarSubcapa('Corredor_7_ERSA.geojson', 'Línea 70', coloresColectivos[2]);
+    cargarSubcapa('Corredor_8_TAMSE.geojson', 'Línea 80', coloresColectivos[2]);
+    cargarSubcapa('Layer_600_601_Aerobus_TAMSE.geojson', 'Aerobus', coloresColectivos[2]);
+    cargarSubcapa('Trolebuses.geojson', 'Trolebuses', 'blue');
+
+    // Añadir el grupo de colectivos al mapa
+    grupoColectivos.addTo(map);
+        // Cargar la capa de CPC
+        fetch('C.P.C.geojson')
+            .then(res => res.json())
+            .then(data => {
+                const capaCPC = L.geoJSON(data, {
+                    style: {
+                        color: 'darkgreen',
+                        weight: 2,
+                        fillOpacity: 0.5
+                    },
+                    onEachFeature: function (feature, layer) {
+                        const props = feature.properties;
+                        const popupContent = `
+                            <strong>${props.Name || "Sin Nombre"}</strong><br>
+                            Densidad Poblacional: ${props.DENSIDAD_POBLACIONAL_HAB_KM__ || "Desconocida"} hab/km²<br>
+                            Población Total: ${props.TOTAL_POBLACION || "Desconocida"}<br>
+                            Departamento: ${props.DEPARTAMENTO || "Desconocido"}
+                        `;
+                        layer.bindPopup(popupContent);
+                    }
+                });
+
+                // Añadir al grupo y al control de capas
+                grupoCPC.addLayer(capaCPC);
+                controlCapas.addOverlay(grupoCPC, "CPC");
+            })
+            .catch(error => console.error('Error al cargar el archivo C.P.C.geojson:', error));
+
+        // Función para mostrar u ocultar todas las capas de colectivos
+        let todasLasCapasVisibles = true;
+        document.getElementById('toggleAllButton').addEventListener('click', () => {
+            if (todasLasCapasVisibles) {
+                grupoColectivos.clearLayers();
+                todasLasCapasVisibles = false;
+            } else {
+                Object.values(subcapasColectivos).forEach(subcapa => {
+                    grupoColectivos.addLayer(subcapa);
+                });
+                todasLasCapasVisibles = true;
+            }
+        });
+    </script>
+</body>
+</html>

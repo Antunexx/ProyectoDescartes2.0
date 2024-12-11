@@ -1,0 +1,926 @@
+{"type": "Feature", "properties": {"Name": "nombre: 791-Santa Ana - García Martínez, ID: 92145"}, "geometry": {"type": "Point", "coordinates": [-64.241122, -31.411893,0]}},
+{"type": "Feature", "properties": {"Name": "nombre: 412-Duarte Quirós - García Martínez, ID: 92147"}, "geometry": {"type": "Point", "coordinates": [[-64.2380221188068, -31.4025671372428]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 555-Luis de Azpeitia Félix Paz, ID: 92148"}, "geometry": {"type": "Point", "coordinates": [[-64.2296807840466, -31.4078974256289]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 882-Don Bosco - Diego Cala, ID: 92149"}, "geometry": {"type": "Point", "coordinates": [[-64.2328910529613, -31.407951794327]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 747-Don Bosco - García Martínez, ID: 92150"}, "geometry": {"type": "Point", "coordinates": [[-64.2396730184555, -31.4068538266724]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 655-Don Bosco - Eugenio Galli, ID: 92151"}, "geometry": {"type": "Point", "coordinates": [[-64.2416078969836, -31.4063556307004]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 569-Don Bosco - Arrecifes, ID: 92152"}, "geometry": {"type": "Point", "coordinates": [[-64.2427847161889, -31.4060434341742]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 560- Don Bosco - Cirilo Correa, ID: 92153"}, "geometry": {"type": "Point", "coordinates": [[-64.2510553076863, -31.402194832745]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 854- Don Bosco - Humahuaca, ID: 92154"}, "geometry": {"type": "Point", "coordinates": [[-64.254860021174, -31.4003819377033]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 826- Duarte Quirós - Quebracho Herrado, ID: 92155"}, "geometry": {"type": "Point", "coordinates": [[-64.242821931839, -31.3999106078745]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 886- Duarte Quirós - sauce grande (escuela israelita), ID: 92156"}, "geometry": {"type": "Point", "coordinates": [[-64.2434100061655, -31.3996788054512]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 732- rio Bamba - palpa, ID: 92157"}, "geometry": {"type": "Point", "coordinates": [[-64.2546551674604, -31.3935315397358]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 891- Mahatma Gandhi - Soldado Cabrera, ID: 92170"}, "geometry": {"type": "Point", "coordinates": [[-64.2697110772133, -31.3785300069955]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 891- Mahatma Gandhi - Soldado Cabrera, ID: 92171"}, "geometry": {"type": "Point", "coordinates": [[-64.2697110772133, -31.3785300069955]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 135- tercer cuerpo de ejército, ID: 92172"}, "geometry": {"type": "Point", "coordinates": [[-64.2968882247806, -31.3717086448612]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 654- Santa Ana - Arrecifes, ID: 92173"}, "geometry": {"type": "Point", "coordinates": [[-64.2442485317588, -31.4116101630244]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 697- Santa Ana - Roque Arias, ID: 92174"}, "geometry": {"type": "Point", "coordinates": [[-64.2370511591434, -31.4113792479195]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 349- Santa Ana - Félix Paz, ID: 92175"}, "geometry": {"type": "Point", "coordinates": [[-64.2309575155377, -31.4125475523353]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 313- Santa Ana - maestro Vidal, ID: 92176"}, "geometry": {"type": "Point", "coordinates": [[-64.2257701233029, -31.4135913740995]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 312- Santa Ana - almirante Brown, ID: 92177"}, "geometry": {"type": "Point", "coordinates": [[-64.2206551507115, -31.4146326090748]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 311- Santa Ana - Vieytes, ID: 92178"}, "geometry": {"type": "Point", "coordinates": [[-64.2155140265822, -31.4156191821424]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 758- Santa Ana - Ocaña, ID: 92179"}, "geometry": {"type": "Point", "coordinates": [[-64.212682954967, -31.4161233375754]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 347- Santa Ana - Sol de mayo, ID: 92180"}, "geometry": {"type": "Point", "coordinates": [[-64.2103511095047, -31.4165963027232]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 310- Santa Ana - rio Negro, ID: 92181"}, "geometry": {"type": "Point", "coordinates": [[-64.2076913639903, -31.4171081782269]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 356- Mariano moreno - Pueyrredón, ID: 92182"}, "geometry": {"type": "Point", "coordinates": [[-64.2016503587365, -31.4234461615246]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 460- paso de los Andes - Pueyrredón, ID: 92183"}, "geometry": {"type": "Point", "coordinates": [[-64.2029653117061, -31.4230161466787]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 648- misiones - Pueyrredón, ID: 92184"}, "geometry": {"type": "Point", "coordinates": [[-64.2058808729053, -31.4220831535962]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 309- Pueyrredón - rio Negro, ID: 92185"}, "geometry": {"type": "Point", "coordinates": [[-64.2087907344103, -31.4212411343917]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 414- Pueyrredón - Sol de mayo, ID: 92186"}, "geometry": {"type": "Point", "coordinates": [[-64.2114990949631, -31.4207006702393]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 649- Pueyrredón - Vieytes, ID: 92187"}, "geometry": {"type": "Point", "coordinates": [[-64.2166486009955, -31.4199004113515]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 557- Peredo - Vieytes, ID: 92188"}, "geometry": {"type": "Point", "coordinates": [[-64.2168685421348, -31.4208817790079]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 877- Pueyrredón - Haedo, ID: 92189"}, "geometry": {"type": "Point", "coordinates": [[-64.2145182564855, -31.420341885011]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 556- Peredo - almirante Brown, ID: 92190"}, "geometry": {"type": "Point", "coordinates": [[-64.2219690978527, -31.4198182964494]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 659- Peredo - maestro Vidal, ID: 92193"}, "geometry": {"type": "Point", "coordinates": [[-64.2271387204528, -31.4188509374348]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 308- Luis Agote - maestro Vidal, ID: 92196"}, "geometry": {"type": "Point", "coordinates": [[-64.2284989356995, -31.4241202194176]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 307- Luis Agote - almirante Brown, ID: 92197"}, "geometry": {"type": "Point", "coordinates": [[-64.2234309017658, -31.425168489978]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 306- Luis Agote - Vieytes, ID: 92198"}, "geometry": {"type": "Point", "coordinates": [[-64.2182736843824, -31.42614150574]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 305- Luis Agote - Sol de mayo, ID: 92199"}, "geometry": {"type": "Point", "coordinates": [[-64.2131563648582, -31.4271050703522]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 795- Sol de mayo - Peru, ID: 92200"}, "geometry": {"type": "Point", "coordinates": [[-64.2123661190271, -31.4242535426884]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 797- Vieytes - Gómez Carrillo, ID: 92201"}, "geometry": {"type": "Point", "coordinates": [[-64.2191215977073, -31.4291451740322]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 656- Félix Paz - aviador Zanni, ID: 92202"}, "geometry": {"type": "Point", "coordinates": [[-64.2356356233358, -31.4309197506264]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 890- aviador pettirossi - Bonn (Titi), ID: 92203"}, "geometry": {"type": "Point", "coordinates": [[-64.248144775629, -31.4507908256735]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 776- lagunilla - Domuyo, ID: 92204"}, "geometry": {"type": "Point", "coordinates": [[-64.2296355217695, -31.4369209635753]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 441 - Lavalleja - Los Andes, ID: 92205"}, "geometry": {"type": "Point", "coordinates": [[-64.1875285282731, -31.4038611772073]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 650- tronador - champaqui, ID: 92206"}, "geometry": {"type": "Point", "coordinates": [[-64.2162707448006, -31.4328095819791]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 528 - Los Andes - Avellaneda, ID: 92207"}, "geometry": {"type": "Point", "coordinates": [[-64.1913228482008, -31.4019289818193]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 405 - Los Andes - Palestina, ID: 92209"}, "geometry": {"type": "Point", "coordinates": [[-64.1933656856418, -31.3989095607149]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 617 - Rodríguez Peña - Allende, ID: 92210"}, "geometry": {"type": "Point", "coordinates": [[-64.1914961859584, -31.3989759541103]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 526 - Bedoya - Rodríguez Peña, ID: 92211"}, "geometry": {"type": "Point", "coordinates": [[-64.1905758529902, -31.3968293059319]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 527 - Bedoya - Los Andes, ID: 92212"}, "geometry": {"type": "Point", "coordinates": [[-64.193648993969, -31.3958156336437]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 624 - Cerrito - Los Andes, ID: 92214"}, "geometry": {"type": "Point", "coordinates": [[-64.1929626837373, -31.3920622034965]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 533 - Jerónimo Luis De Cabrera - Rodríguez Peña, ID: 92216"}, "geometry": {"type": "Point", "coordinates": [[-64.1901148483157, -31.3956659572203]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 612 - Jerónimo Luis De Cabrera - Avellaneda, ID: 92218"}, "geometry": {"type": "Point", "coordinates": [[-64.1888220235705, -31.3960674787123]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 214 - Jerónimo Luis De Cabrera - Urquiza, ID: 92219"}, "geometry": {"type": "Point", "coordinates": [[-64.1875613853335, -31.3964850248999]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 212 - Jerónimo Luis De Cabrera - Fraguerio, ID: 92220"}, "geometry": {"type": "Point", "coordinates": [[-64.1862725839019, -31.3968828224876]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 213 - Fraguerio - Bedoya, ID: 92221"}, "geometry": {"type": "Point", "coordinates": [[-64.186745993793, -31.3980112420114]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 524 - Bedoya - Urquiza, ID: 92222"}, "geometry": {"type": "Point", "coordinates": [[-64.1880227252841, -31.3975762454754]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 417- rio Negro - Kronfus - domingo Irala - olayon, ID: 92223"}, "geometry": {"type": "Point", "coordinates": [[-64.2139922082424, -31.4410773607312]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 525 - Bedoya - Avellaneda, ID: 92225"}, "geometry": {"type": "Point", "coordinates": [[-64.1893054917455, -31.3971655725539]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 618 - Fraguerio - Campillo, ID: 92226"}, "geometry": {"type": "Point", "coordinates": [[-64.187179505825, -31.3990878497697]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 721- Marcelo T de Alvear - Kronfus, ID: 92227"}, "geometry": {"type": "Point", "coordinates": [[-64.2094928026199, -31.4379753843222]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 619. - Fraguerio - Allende, ID: 92228"}, "geometry": {"type": "Point", "coordinates": [[-64.1876485571265, -31.4001687378007]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 720- Marcelo T de Alvear + Elpidio González, ID: 92229"}, "geometry": {"type": "Point", "coordinates": [[-64.2032140865922, -31.4349877327086]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 303- Elpidio González - Fuencarral, ID: 92230"}, "geometry": {"type": "Point", "coordinates": [[-64.2027309536934, -31.4331070996416]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 401 - Lavalleja - Gral Juan B. Bustos, ID: 92232"}, "geometry": {"type": "Point", "coordinates": [[-64.1868381947279, -31.4016742907752]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 402 - Lavalleja - Campillo, ID: 92234"}, "geometry": {"type": "Point", "coordinates": [[-64.1859145089984, -31.3994721860185]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 403 - Lavalleja - Bedoya, ID: 92235"}, "geometry": {"type": "Point", "coordinates": [[-64.1854531690478, -31.3983990168293]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 613 - Jerónimo Luis De Cabrera - Lavalleja, ID: 92236"}, "geometry": {"type": "Point", "coordinates": [[-64.1849985346198, -31.3972748947196]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 215 - Jerónimo Luis De Cabrera - Roque Sáenz Peña, ID: 92237"}, "geometry": {"type": "Point", "coordinates": [[-64.1811177134514, -31.3984539633898]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 616 - Bedoya - General Paz, ID: 92238"}, "geometry": {"type": "Point", "coordinates": [[-64.1800002381206, -31.4000823130042]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 614 - Bedoya - Rivadeo, ID: 92239"}, "geometry": {"type": "Point", "coordinates": [[-64.1808746382594, -31.3997998578992]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 615 - Bedoya - Roque Sáenz Peña, ID: 92240"}, "geometry": {"type": "Point", "coordinates": [[-64.1815904527903, -31.3995534601986]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 678 - Félix Frías - Buchardo, ID: 92241"}, "geometry": {"type": "Point", "coordinates": [[-64.1730476170778, -31.4054035854357]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 679 - Buchardo - Pringles, ID: 92243"}, "geometry": {"type": "Point", "coordinates": [[-64.1706222295761, -31.4047497104602]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 515 - Buchardo - Viamonte, ID: 92245"}, "geometry": {"type": "Point", "coordinates": [[-64.168230034411, -31.4040571989541]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 514 - Buchardo - Roma, ID: 92246"}, "geometry": {"type": "Point", "coordinates": [[-64.1670585796237, -31.4036720229875]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 833- Marcelo T de Alvear - Fuencarral, ID: 92247"}, "geometry": {"type": "Point", "coordinates": [[-64.2009824886918, -31.4333874519594]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 440- Marcelo T de Alvear - Arturo M Bas, ID: 92248"}, "geometry": {"type": "Point", "coordinates": [[-64.1997493430972, -31.4317222041062]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 369- Bolívar - Laprida, ID: 92249"}, "geometry": {"type": "Point", "coordinates": [[-64.1943339630961, -31.4223941523217]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 599 - Roma - Chacras, ID: 92250"}, "geometry": {"type": "Point", "coordinates": [[-64.1674196720123, -31.4027170888293]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 599 - Roma - Chacras, ID: 92251"}, "geometry": {"type": "Point", "coordinates": [[-64.1674196720123, -31.4027170888293]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 646- Bolívar - San Luis, ID: 92252"}, "geometry": {"type": "Point", "coordinates": [[-64.1939064860344, -31.421272320423]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 671- ambrosio Olmos - independencia - Perú - Bolivia, ID: 92254"}, "geometry": {"type": "Point", "coordinates": [[-64.190297909081, -31.4310799557914]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 673- ambrosio Olmos - Buenos Aires - Chile, ID: 92256"}, "geometry": {"type": "Point", "coordinates": [[-64.1884257271886, -31.430261476173]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 680 - Bulnes - Roma, ID: 92257"}, "geometry": {"type": "Point", "coordinates": [[-64.1687862575054, -31.399024032057]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 871- Romagosa - Friuli, ID: 92258"}, "geometry": {"type": "Point", "coordinates": [[-64.1972766816616, -31.4402169186937]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 682 - Viamonte - Padre Luis Monti - Potosi, ID: 92259"}, "geometry": {"type": "Point", "coordinates": [[-64.1693679615855, -31.4009605798305]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 695- Naciones Unidas - Friuli, ID: 92260"}, "geometry": {"type": "Point", "coordinates": [[-64.198355935514, -31.4427647538766]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 695- Naciones Unidas - Friuli, ID: 92261"}, "geometry": {"type": "Point", "coordinates": [[-64.198355935514, -31.4427647538766]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 275- Naciones Unidas - Corro, ID: 92263"}, "geometry": {"type": "Point", "coordinates": [[-64.2038846388459, -31.4419838484678]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 595 - Viamonte - Cochabamba, ID: 92264"}, "geometry": {"type": "Point", "coordinates": [[-64.1689890995622, -31.4020156910845]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 799- Baigorria - Suecia, ID: 92265"}, "geometry": {"type": "Point", "coordinates": [[-64.2057578265667, -31.4448030865632]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 611 - Pringles - Cochabamba, ID: 92267"}, "geometry": {"type": "Point", "coordinates": [[-64.1713886708021, -31.4026621447644]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 870- Baigorria - Friuli, ID: 92268"}, "geometry": {"type": "Point", "coordinates": [[-64.1987860947847, -31.4439123583682]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 608 Pringles - Potosí, ID: 92270"}, "geometry": {"type": "Point", "coordinates": [[-64.1717490926385, -31.4016385195058]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 869- Baigorria - Alfonso Lamartine, ID: 92271"}, "geometry": {"type": "Point", "coordinates": [[-64.2017107084394, -31.4443311218112]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 594 - Viamonte - Charcas, ID: 92272"}, "geometry": {"type": "Point", "coordinates": [[-64.1686182841658, -31.4030172774497]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 593 - Viamonte - Armenia - Ibarbalz, ID: 92273"}, "geometry": {"type": "Point", "coordinates": [[-64.1674508526921, -31.4061850816727]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 597 - Viamonte - Rincon, ID: 92275"}, "geometry": {"type": "Point", "coordinates": [[-64.1670833900571, -31.4071614420488]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 596 - Viamonte - Libertad, ID: 92276"}, "geometry": {"type": "Point", "coordinates": [[-64.1667179390788, -31.4081867239705]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 681 - Roma - Rincón, ID: 92301"}, "geometry": {"type": "Point", "coordinates": [[-64.1658613085747, -31.4068051804275]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 598 - Roma - Armenia, ID: 92302"}, "geometry": {"type": "Point", "coordinates": [[-64.1662492230535, -31.4058465581039]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 610 - Pringles - Ibarbálz, ID: 92303"}, "geometry": {"type": "Point", "coordinates": [[-64.1698812693357, -31.4067931619395]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 677 - Esquiú - Libertad, ID: 92304"}, "geometry": {"type": "Point", "coordinates": [[-64.1726271808147, -31.4100973296911]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 607 - Félix Frías - Ibarbálz, ID: 92305"}, "geometry": {"type": "Point", "coordinates": [[-64.1722888872027, -31.4074495980494]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 606 - Esquiú - Ibarbálz, ID: 92306"}, "geometry": {"type": "Point", "coordinates": [[-64.1734844818711, -31.4077846820179]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 367 - Cochabamba - Félix Frías, ID: 92307"}, "geometry": {"type": "Point", "coordinates": [[-64.1738033294678, -31.4033412168094]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 381 - Félix Frías - José de la Reta, ID: 92308"}, "geometry": {"type": "Point", "coordinates": [[-64.1748721897602, -31.4004074071895]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 217 - Suipacha - David Luque - José De La Reta, ID: 92309"}, "geometry": {"type": "Point", "coordinates": [[-64.1733507066965, -31.4009156507723]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 218 - Bulnes - Jacinto Rios - Alem, ID: 92310"}, "geometry": {"type": "Point", "coordinates": [[-64.171113409102, -31.3996939727877]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 219 - Bulnes - David Luque - Galeotti, ID: 92311"}, "geometry": {"type": "Point", "coordinates": [[-64.1736635193229, -31.3998570930449]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 543 - Fraguerio - Mosconi, ID: 92312"}, "geometry": {"type": "Point", "coordinates": [[-64.1838730126619, -31.3700027975495]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 857 - Fraguerio - Unquillo, ID: 92313"}, "geometry": {"type": "Point", "coordinates": [[-64.1838425025344, -31.3725287802635]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 754 - Mosconi - Sucre, ID: 92315"}, "geometry": {"type": "Point", "coordinates": [[-64.1798155009747, -31.3699839039506]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 707 - Pablo Neruda - Miguel Cane, ID: 92318"}, "geometry": {"type": "Point", "coordinates": [[-64.1721078380942, -31.3676754211027]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 763 - Saavedra Lamas - Montalvo, ID: 92320"}, "geometry": {"type": "Point", "coordinates": [[-64.1684516519308, -31.3644868504318]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 708 - Saavedra Lamas - Miguel Cane, ID: 92321"}, "geometry": {"type": "Point", "coordinates": [[-64.1700995340943, -31.3631776672256]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 813 - Saavedra Lamas - Pablo Groussac - José Silva, ID: 92322"}, "geometry": {"type": "Point", "coordinates": [[-64.1724803298712, -31.3614693747317]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 867 - Alfonsín Storni - Montalvo, ID: 92323"}, "geometry": {"type": "Point", "coordinates": [[-64.1640541702509, -31.3545666064587]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 901 - Alfonsina Storni - Jorge Isaacs, ID: 92324"}, "geometry": {"type": "Point", "coordinates": [[-64.1737701371312, -31.3538599817606]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 205 - Juan B. Justo - Ingreso Liceo militar - Raúl Gorordo, ID: 92325"}, "geometry": {"type": "Point", "coordinates": [[-64.1761646792293, -31.3479911840328]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 205 - Juan B. Justo - Ingreso Liceo militar - Raúl Gorordo, ID: 92326"}, "geometry": {"type": "Point", "coordinates": [[-64.1761646792293, -31.3479911840328]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 726 - Juan B Justo - Milagros De La Vega - Seccional 17, ID: 92327"}, "geometry": {"type": "Point", "coordinates": [[-64.1761516034603, -31.3416512570225]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 207 - Juan B. Justo - Milagros De La Vega, ID: 92329"}, "geometry": {"type": "Point", "coordinates": [[-64.1761509329081, -31.3414929037082]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 207 - Juan B. Justo - Milagros De La Vega, ID: 92330"}, "geometry": {"type": "Point", "coordinates": [[-64.1761509329081, -31.3414929037082]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 574 - Juan B. Justo / Ruta 9 N. - El Mangrullo - Del Cultrum, ID: 92331"}, "geometry": {"type": "Point", "coordinates": [[-64.1757009923458, -31.3088039926278]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 806 - Alem - Magan, ID: 92332"}, "geometry": {"type": "Point", "coordinates": [[-64.150687046349, -31.3726822149227]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 802 - Rancagua - Luis Vernet - CPC Rancagua, ID: 92333"}, "geometry": {"type": "Point", "coordinates": [[-64.1478278115392, -31.3766614094981]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 517 - Alem - Capdevila, ID: 92334"}, "geometry": {"type": "Point", "coordinates": [[-64.1527885571122, -31.3783347906745]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 837 - Alem - Guanahani, ID: 92336"}, "geometry": {"type": "Point", "coordinates": [[-64.1573543474078, -31.3835190489094]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 393 - Alem - Nuevo Mundo - Fráncfort - San Mateo, ID: 92337"}, "geometry": {"type": "Point", "coordinates": [[-64.1586062684655, -31.3849415785752]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 766 - Nuevo Mundo - Paysandu - Tarija, ID: 92339"}, "geometry": {"type": "Point", "coordinates": [[-64.164160117507, -31.3813179494838]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 665 - Nuevo Mundo - República De Siri - Hulluman, ID: 92340"}, "geometry": {"type": "Point", "coordinates": [[-64.1664232313633, -31.3798810531131]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 518 - Capdevila - Hulluman, ID: 92341"}, "geometry": {"type": "Point", "coordinates": [[-64.1674649342895, -31.3789376127862]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 348 - Diagonal Ica - Yadarola, ID: 92342"}, "geometry": {"type": "Point", "coordinates": [[-64.1679681837559, -31.3881217274336]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 224 - Alem - Yadarola, ID: 92343"}, "geometry": {"type": "Point", "coordinates": [[-64.1628357768059, -31.3897393804094]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 225 - Alem - Diagonal Ica - Puerto de Palos, ID: 92344"}, "geometry": {"type": "Point", "coordinates": [[-64.1598585247993, -31.3863466274711]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 226 - Diagonal Ica - Av Del Trabajo - San Mateo, ID: 92346"}, "geometry": {"type": "Point", "coordinates": [[-64.1581559926271, -31.3858114004863]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 836 - Diagonal Ica - Camicalta - Ministalalo - Valero, ID: 92347"}, "geometry": {"type": "Point", "coordinates": [[-64.1527375951409, -31.3840588685386]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 710 - Diagonal Ica - Rancagua - Punta de Sauce - Macatine, ID: 92348"}, "geometry": {"type": "Point", "coordinates": [[-64.1478428989649, -31.3824932113295]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 662 - Capdevila - Rancagua, ID: 92349"}, "geometry": {"type": "Point", "coordinates": [[-64.1478368639946, -31.3797047312477]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 835 - Capdevila - Díaz Colodrero, ID: 92350"}, "geometry": {"type": "Point", "coordinates": [[-64.1449249908328, -31.3796414728354]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 663 - Capdevila - Chilavert, ID: 92351"}, "geometry": {"type": "Point", "coordinates": [[-64.1464974358678, -31.3798990860125]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 753 - Capdevila - Celestino Vidal, ID: 92352"}, "geometry": {"type": "Point", "coordinates": [[-64.1399364173412, -31.3787412523522]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 800 - Celestino Vidal - León y Pizarro, ID: 92354"}, "geometry": {"type": "Point", "coordinates": [[-64.1399159654975, -31.3809426983887]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 899 - Capdevila - Altolaguirre, ID: 92356"}, "geometry": {"type": "Point", "coordinates": [[-64.1340835019946, -31.3776632663317]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 703 - Altolaguirre - Villacorta y Ocaña, ID: 92357"}, "geometry": {"type": "Point", "coordinates": [[-64.1341066360474, -31.3844773267951]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 702 - Las Malvinas - Altolaguirre, ID: 92359"}, "geometry": {"type": "Point", "coordinates": [[-64.1341180354357, -31.3889271228973]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 702 - Las Malvinas - Altolaguirre, ID: 92360"}, "geometry": {"type": "Point", "coordinates": [[-64.1341180354357, -31.3889271228973]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 704 - Las Malvinas - Paysandú, ID: 92361"}, "geometry": {"type": "Point", "coordinates": [[-64.1484872996807, -31.3922905903425]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 706 - Paysandú - Felipe ll, ID: 92362"}, "geometry": {"type": "Point", "coordinates": [[-64.1528666764498, -31.3894131044518]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 709 - Paysandú - Punta del sauce - Colomprea, ID: 92364"}, "geometry": {"type": "Point", "coordinates": [[-64.1536274179816, -31.3889497334024]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 730 - Yadarola - Punta de Sauce, ID: 92365"}, "geometry": {"type": "Point", "coordinates": [[-64.1575649008155, -31.3934963377534]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 771 - Bulnes - Garibaldi, ID: 92366"}, "geometry": {"type": "Point", "coordinates": [[-64.1600097343326, -31.3963004347993]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 169 - Bulnes - Patria, ID: 92367"}, "geometry": {"type": "Point", "coordinates": [[-64.1620579361916, -31.3968799606405]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 824 - Av Del Trabajo - Cura Brochero - Patria, ID: 92368"}, "geometry": {"type": "Point", "coordinates": [[-64.16504021734, -31.3938495017584]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 223 - Alem - Cura Brochero, ID: 92369"}, "geometry": {"type": "Point", "coordinates": [[-64.1659786552191, -31.3932358999133]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 223 - Alem - Cura Brochero, ID: 92370"}, "geometry": {"type": "Point", "coordinates": [[-64.1659786552191, -31.3932358999133]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 520 - Cura Brochero - Galeotti, ID: 92371"}, "geometry": {"type": "Point", "coordinates": [[-64.1702091693878, -31.3918899112977]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 516 - Agusto López - República De Siria, ID: 92373"}, "geometry": {"type": "Point", "coordinates": [[-64.1722942516208, -31.393812868925]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 519 - Agusto López - Galeotti, ID: 92374"}, "geometry": {"type": "Point", "coordinates": [[-64.1711958870292, -31.3941620250374]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 222 - Alem - Agusto López, ID: 92376"}, "geometry": {"type": "Point", "coordinates": [[-64.1677378490567, -31.3952406802678]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 664 - Galeotti - Gianellí, ID: 92378"}, "geometry": {"type": "Point", "coordinates": [[-64.1720722988248, -31.3962970005614]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 221 - Alem - Gianellí, ID: 92380"}, "geometry": {"type": "Point", "coordinates": [[-64.1694393754005, -31.3970880166994]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 220 - Alem - Aguado, ID: 92381"}, "geometry": {"type": "Point", "coordinates": [[-64.17026784271, -31.3980873661979]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 671 - Alem - Magariño Cervantes, ID: 92382"}, "geometry": {"type": "Point", "coordinates": [[-64.1711539775133, -31.3990251767698]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 521 - Maragiño Cervantes - Galeotti, ID: 92383"}, "geometry": {"type": "Point", "coordinates": [[-64.1729319468141, -31.3984571113688]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 779 - Urquiza - Jerónimo Cortés, ID: 92384"}, "geometry": {"type": "Point", "coordinates": [[-64.1865800321102, -31.3941837757031]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 876 - Baigorri - Urquiza, ID: 92385"}, "geometry": {"type": "Point", "coordinates": [[-64.1857002675533, -31.3920527589157]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 442 - Isabel La Católica - Urquiza, ID: 92386"}, "geometry": {"type": "Point", "coordinates": [[-64.1849948465824, -31.3903953633776]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 532 - Isabel La Católica - Rodríguez Peña, ID: 92387"}, "geometry": {"type": "Point", "coordinates": [[-64.1873964294791, -31.3890939825721]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 791 - Isabel La Católica - León Torres, ID: 92388"}, "geometry": {"type": "Point", "coordinates": [[-64.1900578513741, -31.3876709433755]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 211 - León Torres - Urquiza, ID: 92389"}, "geometry": {"type": "Point", "coordinates": [[-64.1851842775941, -31.3875810725173]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 210 - Fraguerio - León Torres, ID: 92390"}, "geometry": {"type": "Point", "coordinates": [[-64.1838267445564, -31.3875913761869]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 534 - León Torres - Lavalleja, ID: 92391"}, "geometry": {"type": "Point", "coordinates": [[-64.1824581474066, -31.3875896589087]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 128 - Leon Torres - Jujuy, ID: 92392"}, "geometry": {"type": "Point", "coordinates": [[-64.181071780622, -31.3875896589087]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 209 - León Torres - Tucumán, ID: 92393"}, "geometry": {"type": "Point", "coordinates": [[-64.1783617436886, -31.3876002487904]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 905 - Tucumán - Castelar, ID: 92394"}, "geometry": {"type": "Point", "coordinates": [[-64.1783355921507, -31.3887505318037]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 542 - Góngora - Tucumán, ID: 92395"}, "geometry": {"type": "Point", "coordinates": [[-64.1783500090241, -31.3805193583974]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 678 - Góngora - Lavalleja, ID: 92397"}, "geometry": {"type": "Point", "coordinates": [[-64.1824527829885, -31.3805608624024]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 208 - Góngora - Fraguerio, ID: 92398"}, "geometry": {"type": "Point", "coordinates": [[-64.1838186979294, -31.3805840473904]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 443 - Góngora - Urquiza, ID: 92399"}, "geometry": {"type": "Point", "coordinates": [[-64.1852278634906, -31.3805333838908]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 773 - Fraguerio - Mesopotamia, ID: 92400"}, "geometry": {"type": "Point", "coordinates": [[-64.1838666424155, -31.3770879155703]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 762 - Góngora - Avellaneda, ID: 92401"}, "geometry": {"type": "Point", "coordinates": [[-64.1865703091025, -31.3805442608026]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 855 - Góngora - Rodríguez Peña, ID: 92402"}, "geometry": {"type": "Point", "coordinates": [[-64.1879130899906, -31.3805602899335]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 856 - Góngora - Mendoza, ID: 92403"}, "geometry": {"type": "Point", "coordinates": [[-64.1892904043198, -31.3805571413545]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 536 - Argensola - Urquiza, ID: 92404"}, "geometry": {"type": "Point", "coordinates": [[-64.1851852834225, -31.381720963483]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 539 - Argensola - Tucumán, ID: 92406"}, "geometry": {"type": "Point", "coordinates": [[-64.1783771663904, -31.381706365705]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 535 Lavalleja - Calderón De La Barca, ID: 92407"}, "geometry": {"type": "Point", "coordinates": [[-64.1824688762426, -31.3852186401965]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 621 - Fraguerio - Calderón De La Barca, ID: 92408"}, "geometry": {"type": "Point", "coordinates": [[-64.1838119924068, -31.3852549901626]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 622 - Fraguerio - Cervantes, ID: 92409"}, "geometry": {"type": "Point", "coordinates": [[-64.1838401556015, -31.3899277040865]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 346 Fraguerio - Isabel La Católica, ID: 92410"}, "geometry": {"type": "Point", "coordinates": [[-64.1838227212429, -31.390979504912]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 623 - Lavalleja - Isabel La Católica, ID: 92411"}, "geometry": {"type": "Point", "coordinates": [[-64.1826070100069, -31.3916483582475]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 531 - Fraguerio - Baigorri, ID: 92412"}, "geometry": {"type": "Point", "coordinates": [[-64.1844188421965, -31.3924560130495]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 530 - Fraguerio - Antonio Del Viso, ID: 92413"}, "geometry": {"type": "Point", "coordinates": [[-64.1849090158939, -31.3935418427525]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 632 - Cerrito - Tambo Nuevo, ID: 92414"}, "geometry": {"type": "Point", "coordinates": [[-64.1947979852557, -31.3891483621619]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 630 - Cerrito - Copacabana, ID: 92415"}, "geometry": {"type": "Point", "coordinates": [[-64.1954044997692, -31.3882565329126]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 631 - Cornelio Saavedra - Cerrito - Suquia, ID: 92416"}, "geometry": {"type": "Point", "coordinates": [[-64.1961709409952, -31.3871915357331]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 192 - Cornelio Saavedra - Los Granaderos, ID: 92417"}, "geometry": {"type": "Point", "coordinates": [[-64.1963053867221, -31.3847646937656]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 541 - Cornelio Saavedra - Argensola, ID: 92418"}, "geometry": {"type": "Point", "coordinates": [[-64.1962658241391, -31.3817701951883]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 193 - Cornelio Saavedra - Góngora, ID: 92419"}, "geometry": {"type": "Point", "coordinates": [[-64.1962698474526, -31.3805966417025]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 772 - Cornelio Saavedra - Espinel, ID: 92420"}, "geometry": {"type": "Point", "coordinates": [[-64.1962631419301, -31.3782323162556]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 875 - Cornelio Saavedra - Zárate, ID: 92421"}, "geometry": {"type": "Point", "coordinates": [[-64.196289293468, -31.3759380622229]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 350 - Góngora - Vives, ID: 92422"}, "geometry": {"type": "Point", "coordinates": [[-64.1989701613784, -31.3805754603585]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 540 - Vives - Argensola, ID: 92424"}, "geometry": {"type": "Point", "coordinates": [[-64.1989761963487, -31.3817481554164]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 191 - Los Granaderos - Cerrito - Vives, ID: 92426"}, "geometry": {"type": "Point", "coordinates": [[-64.1990462690592, -31.382582800828]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 415 - Los Granaderos - Góngora - Aristóteles - Esmeralda, ID: 92428"}, "geometry": {"type": "Point", "coordinates": [[-64.201527312398, -31.3805940655933]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 190 - Los Granaderos - Soldado Ruiz - Zapican, ID: 92429"}, "geometry": {"type": "Point", "coordinates": [[-64.2046802490949, -31.3780866191939]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 805 - Los Granaderos - Ciudad Del Barco, ID: 92430"}, "geometry": {"type": "Point", "coordinates": [[-64.2095276713371, -31.3759140173425]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 448 - Los Granaderos - Virgen De La Merced - Básico y Herrera, ID: 92431"}, "geometry": {"type": "Point", "coordinates": [[-64.2138342931867, -31.3746777014494]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 858 - Los Granaderos - La hierra - Pedroni, ID: 92432"}, "geometry": {"type": "Point", "coordinates": [[-64.2155777290463, -31.3740622568178]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 545 - Zárate - Zapican, ID: 92434"}, "geometry": {"type": "Point", "coordinates": [[-64.2043268680572, -31.3759125860994]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 688 - Zárate - Aristóteles, ID: 92435"}, "geometry": {"type": "Point", "coordinates": [[-64.2017174139619, -31.3758979874188]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 544 - Zárate - Vives, ID: 92438"}, "geometry": {"type": "Point", "coordinates": [[-64.1989812254906, -31.3758919761967]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 731 - Cardeñosa - La Ramada, ID: 92439"}, "geometry": {"type": "Point", "coordinates": [[-64.2155532538891, -31.3676009899085]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 839 - Fray Luis Beltrán - Baravino, ID: 92440"}, "geometry": {"type": "Point", "coordinates": [[-64.2127744853497, -31.3663365094227]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 546 - Tomás de ironía - Alonso De Cámara, ID: 92441"}, "geometry": {"type": "Point", "coordinates": [[-64.2027493938804, -31.3696375206312]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 578- Belardinelli - Luis María Drago, ID: 92790"}, "geometry": {"type": "Point", "coordinates": [[-64.1945817321539, -31.4505814586216]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 828- Vélez Sarsfield - Cocca, ID: 92791"}, "geometry": {"type": "Point", "coordinates": [[-64.2005452886224, -31.4521954605561]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 847- Cacheuta - Tafi - Villavicencio, ID: 92792"}, "geometry": {"type": "Point", "coordinates": [[-64.2127587273717, -31.4517318275468]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 690- armada Argentina - Cincinatti - cumbre de Perchel, ID: 92793"}, "geometry": {"type": "Point", "coordinates": [[-64.2271957173944, -31.4695112676444]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 279- armada Argentina - Renault Argentina, ID: 92794"}, "geometry": {"type": "Point", "coordinates": [[-64.2311047017574, -31.4728584055401]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 642- armada Argentina - cottolengo - tio Pujio, ID: 92795"}, "geometry": {"type": "Point", "coordinates": [[-64.2348547652364, -31.4760341439579]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 691- armada Argentina - Cajamarca - América central, ID: 92796"}, "geometry": {"type": "Point", "coordinates": [[-64.2392217367887, -31.4795051433906]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 696- rio colorado - Cajamarca - Cayuqueo, ID: 92797"}, "geometry": {"type": "Point", "coordinates": [[-64.2345298826694, -31.479620660064]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 653- congreso - Tilcara, ID: 92798"}, "geometry": {"type": "Point", "coordinates": [[-64.224594309926, -31.472202427415]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 692- avenida de mayo - congreso, ID: 92799"}, "geometry": {"type": "Point", "coordinates": [[-64.2252320051193, -31.4746553159688]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 652- avenida de mayo - la falda, ID: 92800"}, "geometry": {"type": "Point", "coordinates": [[-64.2120318487287, -31.477284279026]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 276- Vélez Sarsfield - Laboulaye - ingreso barrio comercial, ID: 92801"}, "geometry": {"type": "Point", "coordinates": [[-64.2039161548018, -31.4837322745234]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 830- Vélez Sarsfield - Icho Cruz, ID: 92802"}, "geometry": {"type": "Point", "coordinates": [[-64.2030856758356, -31.4812759068335]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 738- Vélez Sarsfield - Arica, ID: 92803"}, "geometry": {"type": "Point", "coordinates": [[-64.2026397585869, -31.4775527756647]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 723- Vélez Sarsfield - ingreso a APADIM, ID: 92804"}, "geometry": {"type": "Point", "coordinates": [[-64.2025334760547, -31.4747562553307]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 483- Vélez Sarsfield - defensa - Ordóñez, ID: 92805"}, "geometry": {"type": "Point", "coordinates": [[-64.2044707015157, -31.4714838201208]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 651- Vélez Sarsfield - bermudas - Minuzzi, ID: 92806"}, "geometry": {"type": "Point", "coordinates": [[-64.2021351680159, -31.462902427821]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 881- Vélez Sarsfield - el Tirol - José Benati, ID: 92807"}, "geometry": {"type": "Point", "coordinates": [[-64.2006529122591, -31.4571236718165]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 685- Valparaíso - 29 de mayo, ID: 92808"}, "geometry": {"type": "Point", "coordinates": [[-64.1868009790778, -31.4648127764925]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 900- Valparaíso - Amengual, ID: 92809"}, "geometry": {"type": "Point", "coordinates": [[-64.1868043318391, -31.4621780294278]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 331- Valparaíso - Sanzio, ID: 92810"}, "geometry": {"type": "Point", "coordinates": [[-64.1867627575994, -31.4607220660812]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 796- Valparaíso - Amenabar - ingreso jockey club, ID: 92811"}, "geometry": {"type": "Point", "coordinates": [[-64.186745993793, -31.4543514240083]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 782- Valparaíso - Luis María Drago - Elias Yofre, ID: 92812"}, "geometry": {"type": "Point", "coordinates": [[-64.1867396235466, -31.4520779079251]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 831- Borra Martínez - talleres, ID: 92813"}, "geometry": {"type": "Point", "coordinates": [[-64.1830529272556, -31.4493209561133]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 873- Valparaíso - Abel Chaneton - Podestá costa, ID: 92814"}, "geometry": {"type": "Point", "coordinates": [[-64.1867634281516, -31.4481745619785]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 479- José Javier Díaz - Rogelio Notes Martínez, ID: 92815"}, "geometry": {"type": "Point", "coordinates": [[-64.1829603910446, -31.4466960703881]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 272- José Javier Díaz - Valparaíso, ID: 92816"}, "geometry": {"type": "Point", "coordinates": [[-64.1867580637336, -31.4466777642907]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 770- Valparaíso - Pedro carta Molina - Justiniano Posse, ID: 92817"}, "geometry": {"type": "Point", "coordinates": [[-64.1867778450251, -31.4448817471241]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 880- Notes Martínez - de la industria, ID: 92818"}, "geometry": {"type": "Point", "coordinates": [[-64.1826214268804, -31.4427741933528]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 895- Cruz roja Argentina - UTN, ID: 92820"}, "geometry": {"type": "Point", "coordinates": [[-64.1900927200913, -31.4429192179119]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 480- maestro López - instituto Hellen Keller, ID: 92821"}, "geometry": {"type": "Point", "coordinates": [[-64.1927048563957, -31.4401090768307]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 426- Valparaíso - facultad de ciencias económicas, ID: 92822"}, "geometry": {"type": "Point", "coordinates": [[-64.1853545978665, -31.4358073153271]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 332- Wenceslao Paunero - concepción arenal, ID: 92823"}, "geometry": {"type": "Point", "coordinates": [[-64.1786353290081, -31.4343769745093]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 781- Ricchieri - Tandil, ID: 92824"}, "geometry": {"type": "Point", "coordinates": [[-64.1766927391291, -31.4435024603714]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 271- José Javier Díaz - Ricchieri, ID: 92825"}, "geometry": {"type": "Point", "coordinates": [[-64.1766722872853, -31.4466997888137]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 270- Ricchieri - Carmen Saravia, ID: 92826"}, "geometry": {"type": "Point", "coordinates": [[-64.1731619462371, -31.4541320545637]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 660- Ricchieri - Bernardo O'Higgins - Celso barrios, ID: 92827"}, "geometry": {"type": "Point", "coordinates": [[-64.1688164323568, -31.4584198189524]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 498- O'Higgins - gregorio Orozco - transax 2 - Volkswagen, ID: 92828"}, "geometry": {"type": "Point", "coordinates": [[-64.1687946394086, -31.4641813362141]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 814- O'Higgins - colectora, ID: 92830"}, "geometry": {"type": "Point", "coordinates": [[-64.168483838439, -31.4667528272268]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 785- Celso barrios - ingreso EASY, ID: 92831"}, "geometry": {"type": "Point", "coordinates": [[-64.1671705618501, -31.4585293557193]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 784- O'Higgins - ingreso EASY, ID: 92832"}, "geometry": {"type": "Point", "coordinates": [[-64.1687520593405, -31.4574108162857]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 740- O'Higgins - Alonso y Alfaro, ID: 92833"}, "geometry": {"type": "Point", "coordinates": [[-64.1687426716089, -31.4556235850522]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 846- O'Higgins - catriel, ID: 92834"}, "geometry": {"type": "Point", "coordinates": [[-64.1687386482954, -31.4549915107941]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 739- O'Higgins - Calmayo - diagonal espinosa, ID: 92835"}, "geometry": {"type": "Point", "coordinates": [[-64.1687674820423, -31.4541869684755]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 750 O'Higgins - Copina, ID: 92836"}, "geometry": {"type": "Point", "coordinates": [[-64.1687785461545, -31.4511975455762]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 566- O'Higgins - Pampayasta, ID: 92837"}, "geometry": {"type": "Point", "coordinates": [[-64.1687758639455, -31.4495883888548]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 484- O'Higgins - José Javier Díaz, ID: 92838"}, "geometry": {"type": "Point", "coordinates": [[-64.1687611117959, -31.4466869173399]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 485- O'Higgins - Baradero, ID: 92839"}, "geometry": {"type": "Point", "coordinates": [[-64.1687654703856, -31.4436986853165]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 370- O'Higgins - Garcilazo de la Vega, ID: 92840"}, "geometry": {"type": "Point", "coordinates": [[-64.1687597706914, -31.4415662187286]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 339- revolución de mayo - Madrid, ID: 92841"}, "geometry": {"type": "Point", "coordinates": [[-64.1688154265284, -31.4347005195124]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 832- revolución de mayo - la Coruña, ID: 92842"}, "geometry": {"type": "Point", "coordinates": [[-64.1696160659194, -31.4334523905909]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 358- revolución de mayo - León, ID: 92843"}, "geometry": {"type": "Point", "coordinates": [[-64.1666307672858, -31.4362135281399]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 719- revolución de mayo - Castilla, ID: 92844"}, "geometry": {"type": "Point", "coordinates": [[-64.1617716103792, -31.4395258132512]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 751- Baradero - Huascha, ID: 92845"}, "geometry": {"type": "Point", "coordinates": [[-64.1606380417943, -31.4436529186022]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 752- Asturias - Salamanca, ID: 92846"}, "geometry": {"type": "Point", "coordinates": [[-64.1580436751246, -31.4387646187846]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 700- bajada Pucara - Sabattini - revolución de mayo, ID: 92847"}, "geometry": {"type": "Point", "coordinates": [[-64.1699821874499, -31.429156617484]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 701- bajada Pucara - ferroviarios, ID: 92848"}, "geometry": {"type": "Point", "coordinates": [[-64.1695909202099, -31.4282943494823]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 108- Juan Domingo Perón - bajada Pucara, ID: 92850"}, "geometry": {"type": "Point", "coordinates": [[-64.1705732792616, -31.425064636185]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 437- ferroviarios - Isassa, ID: 92851"}, "geometry": {"type": "Point", "coordinates": [[-64.1595862805843, -31.4304405639005]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 801- ferroviarios - Morcillo, ID: 92852"}, "geometry": {"type": "Point", "coordinates": [[-64.1616908088326, -31.4295877485111]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 699- Asturias - Tristán Narvaja, ID: 92853"}, "geometry": {"type": "Point", "coordinates": [[-64.1485084220767, -31.4353865113246]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 698- 11 de septiembre - Malagueño - Alejandro Danel, ID: 92854"}, "geometry": {"type": "Point", "coordinates": [[-64.1484819352627, -31.4421019858576]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 825- pista de educación vial, ID: 92855"}, "geometry": {"type": "Point", "coordinates": [[-64.1400571167469, -31.4341890261035]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 717- Sabattini - Cangallo, ID: 92856"}, "geometry": {"type": "Point", "coordinates": [[-64.119321629405, -31.4488964944513]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 716- Sabattini - ingreso FIAT Crysler - Cormec, ID: 92857"}, "geometry": {"type": "Point", "coordinates": [[-64.1162340715528, -31.452079624023]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 718- Sabattini - Vucetich, ID: 92858"}, "geometry": {"type": "Point", "coordinates": [[-64.1029393672943, -31.4650338367792]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 879- Vucetich - Kelvin, ID: 92859"}, "geometry": {"type": "Point", "coordinates": [[-64.0969342365861, -31.4650138184047]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 864- Punilla - Cavalango, ID: 92860"}, "geometry": {"type": "Point", "coordinates": [[-64.1325271502137, -31.4312613305943]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 117- Agustín Garzón - Solares, ID: 92861"}, "geometry": {"type": "Point", "coordinates": [[-64.1421281173825, -31.4261569548944]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 767- obispo castellano - entre ríos, ID: 92862"}, "geometry": {"type": "Point", "coordinates": [[-64.1407390683889, -31.4251716370608]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 255- obispo castellano - Estados Unidos, ID: 92863"}, "geometry": {"type": "Point", "coordinates": [[-64.1403970867395, -31.4229964054308]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 734- Estados Unidos - rio primero, ID: 92864"}, "geometry": {"type": "Point", "coordinates": [[-64.1324309259653, -31.4235339953191]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 811- Blas Parera - Pedernera, ID: 92865"}, "geometry": {"type": "Point", "coordinates": [[-64.1378349065781, -31.4145164399856]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 254- obispo castellano - López y planes, ID: 92866"}, "geometry": {"type": "Point", "coordinates": [[-64.1402458772063, -31.4218757251701]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 355- López y planes - Diego de torres, ID: 92867"}, "geometry": {"type": "Point", "coordinates": [[-64.1427322849631, -31.4216823156313]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 807- San Jerónimo - Diego de torres, ID: 92868"}, "geometry": {"type": "Point", "coordinates": [[-64.1430762782693, -31.4238555750246]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 354- Agustín Garzón - Diego de torres, ID: 92869"}, "geometry": {"type": "Point", "coordinates": [[-64.1433914378285, -31.4260164819336]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 583- sargento Cabral - corrientes, ID: 92870"}, "geometry": {"type": "Point", "coordinates": [[-64.1509901359677, -31.4264161569947]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 261- sargento Cabral - Agustín Garzón, ID: 92871"}, "geometry": {"type": "Point", "coordinates": [[-64.1508318856359, -31.4253593174464]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 260- sargento Cabral - entre ríos, ID: 92872"}, "geometry": {"type": "Point", "coordinates": [[-64.1506960988045, -31.4242861582237]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 259- sargento Cabral - San Jerónimo, ID: 92873"}, "geometry": {"type": "Point", "coordinates": [[-64.1505375131965, -31.4232055480048]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 888- San Jerónimo - Juan Rodríguez, ID: 92874"}, "geometry": {"type": "Point", "coordinates": [[-64.1493080556393, -31.4233182730838]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 258- sargento Cabral - Estados Unidos, ID: 92875"}, "geometry": {"type": "Point", "coordinates": [[-64.1504023969173, -31.4221037533597]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 257- sargento Cabral - López y planes, ID: 92876"}, "geometry": {"type": "Point", "coordinates": [[-64.1502609103918, -31.421013676327]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 256- sargento Cabral - Argandoña, ID: 92877"}, "geometry": {"type": "Point", "coordinates": [[-64.1501358523965, -31.4199604953807]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 470- Yapeyú - López y planes, ID: 92878"}, "geometry": {"type": "Point", "coordinates": [[-64.1515078023076, -31.4209106762672]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 559- Yapeyú - Argandoña, ID: 92879"}, "geometry": {"type": "Point", "coordinates": [[-64.1513726860285, -31.4198394689398]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 585- Yapeyú - Estados Unidos, ID: 92880"}, "geometry": {"type": "Point", "coordinates": [[-64.1516556590796, -31.4219807269273]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 584- Yapeyú - San Jerónimo, ID: 92881"}, "geometry": {"type": "Point", "coordinates": [[-64.1518018394709, -31.4230896756377]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 587- Yapeyú - entre ríos, ID: 92882"}, "geometry": {"type": "Point", "coordinates": [[-64.1519282385707, -31.4241791563375]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 586- Yapeyú - Agustín Garzón, ID: 92883"}, "geometry": {"type": "Point", "coordinates": [[-64.1520814597607, -31.4252176988975]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 488- corrientes - Galíndez, ID: 92884"}, "geometry": {"type": "Point", "coordinates": [[-64.158446341753, -31.4257349631873]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 262- Uruguay - Agustín Garzón, ID: 92885"}, "geometry": {"type": "Point", "coordinates": [[-64.1633122041822, -31.4242295101815]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 352- Agustín Garzón - asunción, ID: 92886"}, "geometry": {"type": "Point", "coordinates": [[-64.1620740294456, -31.424322493061]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 353- Agustín Garzón - Galíndez, ID: 92887"}, "geometry": {"type": "Point", "coordinates": [[-64.1583256423473, -31.424669532963]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 490- San Jerónimo - Pellegrini, ID: 92889"}, "geometry": {"type": "Point", "coordinates": [[-64.156802482903, -31.4226030101325]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 487- Pellegrini - entre ríos, ID: 92890"}, "geometry": {"type": "Point", "coordinates": [[-64.1569513455033, -31.4237236817023]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 489- entre ríos - Galíndez, ID: 92891"}, "geometry": {"type": "Point", "coordinates": [[-64.1581905260682, -31.4236029462207]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 582- Galíndez - Estados Unidos, ID: 92892"}, "geometry": {"type": "Point", "coordinates": [[-64.1578938066959, -31.4213767506357]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 377- Pellegrini - Estados Unidos, ID: 92893"}, "geometry": {"type": "Point", "coordinates": [[-64.1566539555788, -31.4215238110668]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 486- Estados Unidos - Bernardo de Irigoyen, ID: 92894"}, "geometry": {"type": "Point", "coordinates": [[-64.1553973406553, -31.421636252058]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 431- Ramón Muestre - obispo Maldonado, ID: 92895"}, "geometry": {"type": "Point", "coordinates": [[-64.1458211839199, -31.419204578267]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 844- remedios de escalada - Panamá, ID: 92897"}, "geometry": {"type": "Point", "coordinates": [[-64.1525377705693, -31.4146549272578]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 588- 24 de septiembre - gavilán, ID: 92898"}, "geometry": {"type": "Point", "coordinates": [[-64.1524234414101, -31.4100747242794]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 242- Patria - Lima, ID: 92899"}, "geometry": {"type": "Point", "coordinates": [[-64.1574780642986, -31.4102836095213]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 243- Patria - Catamarca, ID: 92900"}, "geometry": {"type": "Point", "coordinates": [[-64.1579249873757, -31.4092772362097]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 244- Patria - Sarmiento, ID: 92901"}, "geometry": {"type": "Point", "coordinates": [[-64.1582414880395, -31.4082336525986]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 245- Patria - Oncativo, ID: 92902"}, "geometry": {"type": "Point", "coordinates": [[-64.1586153209209, -31.4071788974027]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 589- Garibaldi - Libertad, ID: 92903"}, "geometry": {"type": "Point", "coordinates": [[-64.1563820466399, -31.4052962758507]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 603- Rincón - Garibaldi, ID: 92904"}, "geometry": {"type": "Point", "coordinates": [[-64.1567297279835, -31.4044389393998]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 602- Rincón - Ucrania, ID: 92905"}, "geometry": {"type": "Point", "coordinates": [[-64.1555897891521, -31.4041510603171]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 567- Rincón - Gavilán - CPC general Paz, ID: 92907"}, "geometry": {"type": "Point", "coordinates": [[-64.1547686979175, -31.403929856406]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 780- Armenia - Gavilán, ID: 92908"}, "geometry": {"type": "Point", "coordinates": [[-64.1553363204002, -31.4029154022962]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 407- Armenia - Garibaldi, ID: 92909"}, "geometry": {"type": "Point", "coordinates": [[-64.1571813449264, -31.4034036007626]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 408- Armenia - Eufrasio - Loza, ID: 92910"}, "geometry": {"type": "Point", "coordinates": [[-64.1582927852869, -31.4037258218059]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 248- Patria - Armenia, ID: 92911"}, "geometry": {"type": "Point", "coordinates": [[-64.159773029387, -31.4041244471962]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 249- Patria - Garay, ID: 92912"}, "geometry": {"type": "Point", "coordinates": [[-64.1602387279272, -31.4027643063595]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 250- Patria - Buchardo, ID: 92913"}, "geometry": {"type": "Point", "coordinates": [[-64.1606658697128, -31.4016336546121]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 251- Patria - Charcas, ID: 92914"}, "geometry": {"type": "Point", "coordinates": [[-64.1610246151686, -31.4006414971996]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 252- Patria - Cochabamba, ID: 92915"}, "geometry": {"type": "Point", "coordinates": [[-64.1613763198256, -31.3997260245098]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 253- Patria - padre Luis Monti, ID: 92916"}, "geometry": {"type": "Point", "coordinates": [[-64.1616180539131, -31.3988022437049]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 247- Patria - Rincón, ID: 92917"}, "geometry": {"type": "Point", "coordinates": [[-64.1593867912889, -31.4051428944708]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 246- Patria - Libertad, ID: 92918"}, "geometry": {"type": "Point", "coordinates": [[-64.1590548679233, -31.4060151046488]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 727- Maestro López - ingreso UTN - ingreso Pablo Pizzurno, ID: 92921"}, "geometry": {"type": "Point", "coordinates": [[-64.1940127685666, -31.4424618320016]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 787- Irobi - Pimentel, ID: 92924"}, "geometry": {"type": "Point", "coordinates": [[-64.1993926092982, -31.3671638485901]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 809- Pimentel - Peralta, ID: 92925"}, "geometry": {"type": "Point", "coordinates": [[-64.1974339261651, -31.3690286271892]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 116- Irobi - Ubeda, ID: 92926"}, "geometry": {"type": "Point", "coordinates": [[-64.1943728551269, -31.3634241603619]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 413- Irobi - Suárez mejia, ID: 92927"}, "geometry": {"type": "Point", "coordinates": [[-64.1910381987691, -31.3609414496729]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 667- la voz del interior - de los alemanes - monseñor Pablo Cabrera, ID: 92928"}, "geometry": {"type": "Point", "coordinates": [[-64.2078911885619, -31.3432350618534]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 512- la voz del interior - Av Japón - E53- monseñor Pablo Cabrera, ID: 92929"}, "geometry": {"type": "Point", "coordinates": [[-64.2084504291415, -31.3349970382433]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 194- los alemanes - los Toscanos, ID: 92930"}, "geometry": {"type": "Point", "coordinates": [[-64.2244112491608, -31.3433633457276]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 794- los Alemanes - los Polacos, ID: 92931"}, "geometry": {"type": "Point", "coordinates": [[-64.2327988520265, -31.3433581914682]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 396- los Alemanes - padre claret, ID: 92932"}, "geometry": {"type": "Point", "coordinates": [[-64.2355551570654, -31.3434237650809]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 777- los Alemanes - los Sirios, ID: 92933"}, "geometry": {"type": "Point", "coordinates": [[-64.2385796830058, -31.3433664955526]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 765- los Alemanes - Potel Junot, ID: 92934"}, "geometry": {"type": "Point", "coordinates": [[-64.2419160157442, -31.3433441604272]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 764- los Alemanes - Doering - Antonio Primoli, ID: 92935"}, "geometry": {"type": "Point", "coordinates": [[-64.2521898820996, -31.3412681159961]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 561- Rafael Nuñez - CPC Argüello, ID: 92936"}, "geometry": {"type": "Point", "coordinates": [[-64.2540999501944, -31.3414413600765]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 887- Ricardo rojas - monseñor Ferreyra, ID: 92937"}, "geometry": {"type": "Point", "coordinates": [[-64.2551077902317, -31.3413792213273]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 711- Donato Alvarez - universidad Blas Pascal, ID: 92938"}, "geometry": {"type": "Point", "coordinates": [[-64.2568230628967, -31.339064595274]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 364- Donato Alvarez - Ataguile, ID: 92939"}, "geometry": {"type": "Point", "coordinates": [[-64.2591954767704, -31.3372556365726]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 712- Donato Alvarez - Fangio - Massetti - Vagni, ID: 92940"}, "geometry": {"type": "Point", "coordinates": [[-64.2622991278768, -31.3324580191948]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 363- Donato Alvarez - piedra labrada - Valerio Beta, ID: 92941"}, "geometry": {"type": "Point", "coordinates": [[-64.2679364606738, -31.3257911214872]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 861- Donato Alvarez - Malalco, ID: 92955"}, "geometry": {"type": "Point", "coordinates": [[-64.2683927714825, -31.3251587454879]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 860- Donato Alvarez - Vulcan, ID: 92956"}, "geometry": {"type": "Point", "coordinates": [[-64.2709375172853, -31.3214930003913]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 859- Donato Alvarez - Cauque, ID: 92957"}, "geometry": {"type": "Point", "coordinates": [[-64.2726501077414, -31.3190624573814]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 862- Bodereau - piedra labrada, ID: 92958"}, "geometry": {"type": "Point", "coordinates": [[-64.2886186391115, -31.3252902044354]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 863- Bodereau - agua de la Pilona, ID: 92959"}, "geometry": {"type": "Point", "coordinates": [[-64.2884446308017, -31.3275765297096]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 798- Bodereau - Cruz alta - Eva Perón, ID: 92960"}, "geometry": {"type": "Point", "coordinates": [[-64.2882085964084, -31.3135005569485]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 842- Bodereau - León XIII, ID: 92961"}, "geometry": {"type": "Point", "coordinates": [[-64.2881398648024, -31.3354397701702]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 816- Bodereau - ingreso a paseo Rivera, ID: 92962"}, "geometry": {"type": "Point", "coordinates": [[-64.2881341651082, -31.3340414060203]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 571 - Escuela Taborda - Rodríguez del Busto, ID: 92963"}, "geometry": {"type": "Point", "coordinates": [[-64.2226000875235, -31.3750816026887]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 187 - Los Granaderos - Rodríguez del Busto, ID: 92964"}, "geometry": {"type": "Point", "coordinates": [[-64.2219385877252, -31.3720172341701]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 793 - Rodríguez del Busto - Ingreso a Dinosaurios, ID: 92965"}, "geometry": {"type": "Point", "coordinates": [[-64.2210293188691, -31.3681503479881]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 666 - Cordillera - Spilimbergo, ID: 92966"}, "geometry": {"type": "Point", "coordinates": [[-64.2262542620301, -31.3635810453199]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 838 - La Cordillera - Martel de los Ríos, ID: 92968"}, "geometry": {"type": "Point", "coordinates": [[-64.2289653047919, -31.3623832163074]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 362 - La Cordillera - Manuel Gutierrez, ID: 92970"}, "geometry": {"type": "Point", "coordinates": [[-64.2307285219431, -31.3615919078898]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 360 - Italia - Julián Paz, ID: 92971"}, "geometry": {"type": "Point", "coordinates": [[-64.2082848027349, -31.3880633402871]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 684 - Julián Paz - Ciudad de Tampa, ID: 92972"}, "geometry": {"type": "Point", "coordinates": [[-64.2078408971429, -31.386985747463]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 685 - Julián Paz - Gregorio Carrera, ID: 92974"}, "geometry": {"type": "Point", "coordinates": [[-64.207349717617, -31.385904421438]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 757 - Italia - Gato y Mancha, ID: 92976"}, "geometry": {"type": "Point", "coordinates": [[-64.215994477272, -31.3855950190855]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 500 - Italia - Galeano, ID: 92977"}, "geometry": {"type": "Point", "coordinates": [[-64.2172759026289, -31.3851983185558]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 500 - Italia - Galeano, ID: 92978"}, "geometry": {"type": "Point", "coordinates": [[-64.2172759026289, -31.3851983185558]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 497 - Italia - Pedroni, ID: 92979"}, "geometry": {"type": "Point", "coordinates": [[-64.2185465991497, -31.3847286298315]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 635 - Virgen de la Merced - Obispo Lazcano, ID: 92980"}, "geometry": {"type": "Point", "coordinates": [[-64.2160984128714, -31.3824937837866]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 634 - Galeano - Gregorio Carreras, ID: 92981"}, "geometry": {"type": "Point", "coordinates": [[-64.2163203656673, -31.3829860956275]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 633 - Galeano - Ciudad de Tampa, ID: 92983"}, "geometry": {"type": "Point", "coordinates": [[-64.2168055102229, -31.3840683139233]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 451 - Costanera Norte - Zipoli, ID: 92984"}, "geometry": {"type": "Point", "coordinates": [[-64.2222815752029, -31.3943995649291]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 328 - Monseñor de Andrea - Emilio Coni, ID: 93000"}, "geometry": {"type": "Point", "coordinates": [[-64.2135278508067, -31.3950658181894]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 328 - Monseñor de Andrea - Emilio Coni, ID: 93001"}, "geometry": {"type": "Point", "coordinates": [[-64.2135278508067, -31.3950658181894]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 506 Pedro Zanni - 12 de Octubre, ID: 93002"}, "geometry": {"type": "Point", "coordinates": [[-64.2100587487221, -31.3989931248084]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 427 - Costanera - Eliseo Canton, ID: 93004"}, "geometry": {"type": "Point", "coordinates": [[-64.2028120905161, -31.396540831138]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 733- Bodereau - León XIII, ID: 93005"}, "geometry": {"type": "Point", "coordinates": [[-64.2881368473172, -31.3354391974265]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 423 - Neuquén - Casaffousth, ID: 93006"}, "geometry": {"type": "Point", "coordinates": [[-64.2003897204995, -31.3992924668069]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 423 - Neuquén - Casaffousth, ID: 93007"}, "geometry": {"type": "Point", "coordinates": [[-64.2003897204995, -31.3992924668069]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 842- Bodereau - colegio León XIII, ID: 93008"}, "geometry": {"type": "Point", "coordinates": [[-64.288168027997, -31.33091899551]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 572- Donato Alvarez - los Querandies - cartel titilante, ID: 93009"}, "geometry": {"type": "Point", "coordinates": [[-64.2642943561077, -31.3310309722168]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 722 - Sagrada Familia - Nicanor Carranza, ID: 93010"}, "geometry": {"type": "Point", "coordinates": [[-64.2244467884302, -31.3839655595349]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 343 - Sagrada Familia - Mariano Larra, ID: 93011"}, "geometry": {"type": "Point", "coordinates": [[-64.2260326445103, -31.3857003476603]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 505 - Sagrada Familia - Barros pazos, ID: 93012"}, "geometry": {"type": "Point", "coordinates": [[-64.2275413870811, -31.3867773828024]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 502 - Sagrada Familia - Lamarca, ID: 93013"}, "geometry": {"type": "Point", "coordinates": [[-64.2315412312746, -31.3891080067851]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 503 - Sagrada Familia - Igualdad, ID: 93014"}, "geometry": {"type": "Point", "coordinates": [[-64.2332689091563, -31.3926786749873]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 808 - Roque Funes - Emilio Lamarca, ID: 93017"}, "geometry": {"type": "Point", "coordinates": [[-64.2453200742602, -31.3809074916873]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 715 - Roque Funes - Menéndez Pidal, ID: 93019"}, "geometry": {"type": "Point", "coordinates": [[-64.2442290857434, -31.379565047457]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 715 - Roque Funes - Menéndez Pidal, ID: 93020"}, "geometry": {"type": "Point", "coordinates": [[-64.2442290857434, -31.379565047457]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 507 - Luis de Tejeda - Gavier, ID: 93021"}, "geometry": {"type": "Point", "coordinates": [[-64.2355477809906, -31.3686309978897]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 713 - Luis de Tejeda - José Esteban Bustos, ID: 93022"}, "geometry": {"type": "Point", "coordinates": [[-64.2329819127917, -31.371614751067]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 337 - Padre Claret - La Cordillera, ID: 93023"}, "geometry": {"type": "Point", "coordinates": [[-64.2383993044496, -31.3584183048563]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 342 - Roque Funes - British School, ID: 93024"}, "geometry": {"type": "Point", "coordinates": [[-64.2411153763533, -31.3755937045986]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 817- Bodereau - Ricardo Rojas, ID: 93026"}, "geometry": {"type": "Point", "coordinates": [[-64.2881418764591, -31.3366860522236]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 818- Ricardo Rojas - Manuel de falla, ID: 93027"}, "geometry": {"type": "Point", "coordinates": [[-64.2902249470353, -31.3360082165824]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 523- Manuel de Falla - Eguía Zanon, ID: 93028"}, "geometry": {"type": "Point", "coordinates": [[-64.2903704568744, -31.3409296448228]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 815- recta Martinoli - Carolina - Huayna, ID: 93029"}, "geometry": {"type": "Point", "coordinates": [[-64.2810336872935, -31.3467181360064]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 843- recta Martinoli - Viracocha, ID: 93030"}, "geometry": {"type": "Point", "coordinates": [[-64.2776809260249, -31.3468779122103]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 570- recta Martinoli - escuela Mantovani, ID: 93031"}, "geometry": {"type": "Point", "coordinates": [[-64.2755797505379, -31.3470216532945]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 822- recta Martinoli - Nicolle, ID: 93032"}, "geometry": {"type": "Point", "coordinates": [[-64.2695722728968, -31.3474285367262]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 820- recta Martinoli - Richards, ID: 93033"}, "geometry": {"type": "Point", "coordinates": [[-64.2688403651118, -31.3474540205701]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 821- recta Martinoli - Tomás Garzón, ID: 93034"}, "geometry": {"type": "Point", "coordinates": [[-64.2673483863473, -31.3475387757766]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 422- recta Martinoli - Santiago Ramón y Cajal, ID: 93035"}, "geometry": {"type": "Point", "coordinates": [[-64.260737746954, -31.3480023510446]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 184- recta Martinoli - Lasalle, ID: 93036"}, "geometry": {"type": "Point", "coordinates": [[-64.2557659372687, -31.3483946272815]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 185- recta Martinolli - Juan Nepper, ID: 93037"}, "geometry": {"type": "Point", "coordinates": [[-64.2530639469624, -31.3492413084442]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 823- recta Martinolli - Tycho Brahe, ID: 93038"}, "geometry": {"type": "Point", "coordinates": [[-64.2516973614693, -31.349969156094]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 391- recta Martinolli - Ángel Locelso, ID: 93039"}, "geometry": {"type": "Point", "coordinates": [[-64.2500068992376, -31.3512604848363]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 186- recta Martinolli - Gauss, ID: 93040"}, "geometry": {"type": "Point", "coordinates": [[-64.2490389570594, -31.3521423576907]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 744- recta Martinolli - Torricelli - Avogadro, ID: 93041"}, "geometry": {"type": "Point", "coordinates": [[-64.2456345632672, -31.3550773885904]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 898- recta Martinolli - Dionisio Papin, ID: 93042"}, "geometry": {"type": "Point", "coordinates": [[-64.2478946596384, -31.3531290147251]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 897- Gauss - Blas Pascal, ID: 93043"}, "geometry": {"type": "Point", "coordinates": [[-64.2503257468343, -31.3551151817769]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 508- Gauss - Amadeo Avogadro, ID: 93044"}, "geometry": {"type": "Point", "coordinates": [[-64.2498127743602, -31.3539266933145]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 840- Gauss - Jacobo Joule, ID: 93045"}, "geometry": {"type": "Point", "coordinates": [[-64.2517821863294, -31.3587552815927]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 509- Gauss - Juan Dalembert, ID: 93046"}, "geometry": {"type": "Point", "coordinates": [[-64.2526562511921, -31.3609554780886]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 848- Gauss - Roberto Boyle, ID: 93047"}, "geometry": {"type": "Point", "coordinates": [[-64.2533998936415, -31.3628115049158]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 896- Simón Laplace - Vicente de Olmos, ID: 93048"}, "geometry": {"type": "Point", "coordinates": [[-64.251067712903, -31.3623772042208]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 833- Simón Laplace - Torricelli, ID: 93049"}, "geometry": {"type": "Point", "coordinates": [[-64.2479972541332, -31.3609632080311]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01030 - CASTRO BARROS - TAMBO NUEVO, ID: 93197"}, "geometry": {"type": "Point", "coordinates": [[-64.2026993446689, -31.3928646077481]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01040 - CASTRO BARROS - B. MASSE - OB. CLARA -, ID: 93198"}, "geometry": {"type": "Point", "coordinates": [[-64.2011651211124, -31.3956578485016]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01050 - MARTÍN GARCÍA - ZAPIOLA, ID: 93199"}, "geometry": {"type": "Point", "coordinates": [[-64.1980644874911, -31.3965003834965]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01060 - CASTRO BARROS - BRANDSEN, ID: 93200"}, "geometry": {"type": "Point", "coordinates": [[-64.1986686364089, -31.3979381703192]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01070 - MARTÍN GARCÍA - BRANDSEN, ID: 93201"}, "geometry": {"type": "Point", "coordinates": [[-64.1975313797866, -31.3973795423861]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01080 - BRANDSEN - GRAL. GUIDO, ID: 93202"}, "geometry": {"type": "Point", "coordinates": [[-64.196522869197, -31.3968941744338]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01081 - GRAL. GUIDO - ZAPIOLA, ID: 93203"}, "geometry": {"type": "Point", "coordinates": [[-64.197064675418, -31.3960012740048]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01090 - BRANDSEN - PASO DE USPALLATA, ID: 93204"}, "geometry": {"type": "Point", "coordinates": [[-64.1954875365172, -31.3964133829504]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01100 - MARTÍN GARCÍA - ZELAYA, ID: 93205"}, "geometry": {"type": "Point", "coordinates": [[-64.1969359293853, -31.3982357985982]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01110 - CASTRO BARROS - SOLER, ID: 93206"}, "geometry": {"type": "Point", "coordinates": [[-64.1975903883849, -31.3997422411041]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01120 - MARTÍN GARCÍA - SOLER, ID: 93207"}, "geometry": {"type": "Point", "coordinates": [[-64.1963780299102, -31.3991057835419]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01130 - SANTA FE - 12 DE OCTUBRE, ID: 93208"}, "geometry": {"type": "Point", "coordinates": [[-64.1987866536056, -31.4034510086773]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01140 - SANTA FE - BENITEZ, ID: 93209"}, "geometry": {"type": "Point", "coordinates": [[-64.1982448473846, -31.402457439637]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01150 - SANTA FE - DUMESNIL, ID: 93210"}, "geometry": {"type": "Point", "coordinates": [[-64.1976976767455, -31.4015600133989]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01160 - CASTRO BARROS - SANTA FE, ID: 93211"}, "geometry": {"type": "Point", "coordinates": [[-64.1970056668197, -31.400589318216]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01170 - MARTÍN GARCÍA - PALESTINA, ID: 93212"}, "geometry": {"type": "Point", "coordinates": [[-64.1957825795089, -31.4000444424644]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01180 - CASTRO BARROS - EUROPA, ID: 93213"}, "geometry": {"type": "Point", "coordinates": [[-64.1962921992217, -31.4014409664165]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01190 - CASTRO BARROS - FAMATINA, ID: 93214"}, "geometry": {"type": "Point", "coordinates": [[-64.1952354088698, -31.4032495485239]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01200 - MARTÍN GARCÍA - FAMATINA, ID: 93215"}, "geometry": {"type": "Point", "coordinates": [[-64.1940284148131, -31.4026589014907]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01210 - CASTRO BARROS - 12 DE OCTUBRE, ID: 93216"}, "geometry": {"type": "Point", "coordinates": [[-64.1947687045013, -31.4041057511893]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01220 - MARTÍN GARCÍA - DUCASSE, ID: 93217"}, "geometry": {"type": "Point", "coordinates": [[-64.1932893544981, -31.4038026089799]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02010 - MONSEÑOR DE ANDREA - LA RIOJA, ID: 93218"}, "geometry": {"type": "Point", "coordinates": [[-64.2162531987105, -31.4013539704493]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02020 - SANTA FE - LA RIOJA - giro, ID: 93219"}, "geometry": {"type": "Point", "coordinates": [[-64.1998649016296, -31.4061477859082]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02030 - MONSEÑOR DE ANDREA - SANTA ROSA, ID: 93220"}, "geometry": {"type": "Point", "coordinates": [[-64.2166716233169, -31.4023292364141]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02040 - SANTA ROSA - PEDRO ZANNI, ID: 93221"}, "geometry": {"type": "Point", "coordinates": [[-64.2121494189178, -31.4037623553365]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02050 - SANTA ROSA - ENFERMERA CLERMONT, ID: 93222"}, "geometry": {"type": "Point", "coordinates": [[-64.2110014334594, -31.4041423800061]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02060 - SANTA ROSA - ARTURO ORGAZ, ID: 93223"}, "geometry": {"type": "Point", "coordinates": [[-64.207696951953, -31.4051679810725]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02070 - SANTA FE - SANTA ROSA, ID: 93224"}, "geometry": {"type": "Point", "coordinates": [[-64.2003369704162, -31.4073977090035]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02080 - AV. COLÓN - ZIPOLI, ID: 93225"}, "geometry": {"type": "Point", "coordinates": [[-64.2251969129393, -31.4009363504814]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02090 - AV. COLÓN - CAFFERATA, ID: 93226"}, "geometry": {"type": "Point", "coordinates": [[-64.2217249051009, -31.4020178850007]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02091 - 9 DE JULIO - CAFFERATA, ID: 93227"}, "geometry": {"type": "Point", "coordinates": [[-64.2221540585433, -31.4030435092833]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02100 - AV. COLÓN - GARZÓN MACEDA, ID: 93228"}, "geometry": {"type": "Point", "coordinates": [[-64.2183345929061, -31.403103031777]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02110 - AV. COLÓN - MONSEÑOR DE ANDREA, ID: 93229"}, "geometry": {"type": "Point", "coordinates": [[-64.2171705141936, -31.4034739018492]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02120 - AV. COLÓN - PEDRO ZANNI, ID: 93230"}, "geometry": {"type": "Point", "coordinates": [[-64.2126322165404, -31.4048978461646]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02130 - AV. COLÓN - ENFERMERA CLERMONT, ID: 93231"}, "geometry": {"type": "Point", "coordinates": [[-64.2114895955001, -31.4052595520513]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02140 - AV. COLÓN - ARTURO ORGAZ, ID: 93232"}, "geometry": {"type": "Point", "coordinates": [[-64.2081314698135, -31.40631719038]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02141 - AV. COLÓN - HUALFÍN, ID: 93236"}, "geometry": {"type": "Point", "coordinates": [[-64.2066723481094, -31.4067658818274]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02150 - AV. COLÓN - NEUQUEN, ID: 93237"}, "geometry": {"type": "Point", "coordinates": [[-64.2045963183318, -31.4073336107882]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02160 - AV. COLÓN - CHUBUT, ID: 93238"}, "geometry": {"type": "Point", "coordinates": [[-64.2033839598571, -31.4076907288586]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02170 - AV. COLÓN - SANTA FE, ID: 93239"}, "geometry": {"type": "Point", "coordinates": [[-64.2007285729323, -31.4084461664523]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02180 - AV. COLÓN - CNEL. OLMEDO, ID: 93240"}, "geometry": {"type": "Point", "coordinates": [[-64.1993445530807, -31.4088307505273]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02190 - MONSEÑOR DE ANDREA - 9 DE JULIO, ID: 93241"}, "geometry": {"type": "Point", "coordinates": [[-64.217599667636, -31.4044857744684]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02200 - PEDRO ZANNI - 9 DE JULIO, ID: 93242"}, "geometry": {"type": "Point", "coordinates": [[-64.2130720988189, -31.4059097034311]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 02210 - MONSEÑOR DE ANDREA - DEAN FUNES, ID: 93243"}, "geometry": {"type": "Point", "coordinates": [[-64.2179805413161, -31.4054289581264]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03010 - ROQUE SÁENZ PEÑA - ALLENDE, ID: 93244"}, "geometry": {"type": "Point", "coordinates": [[-64.1831064597045, -31.4015233835742]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03020 - ROQUE SÁENZ PEÑA - BUSTOS, ID: 93245"}, "geometry": {"type": "Point", "coordinates": [[-64.1827738657867, -31.4028832562279]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03030 - ROQUE SÁENZ PEÑA - LAS HERAS - LOS ANDES, ID: 93246"}, "geometry": {"type": "Point", "coordinates": [[-64.1826129332458, -31.4045590317911]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03040 - ROQUE SÁENZ PEÑA - COSTANERA NORTE, ID: 93247"}, "geometry": {"type": "Point", "coordinates": [[-64.1829252988646, -31.4058446502949]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03050 - LAVALLEJA - LAS HERAS, ID: 93248"}, "geometry": {"type": "Point", "coordinates": [[-64.187703765956, -31.4055571571151]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01020 - PUENTE - ZUÑIGA - COSTANERA N, ID: 93249"}, "geometry": {"type": "Point", "coordinates": [[-64.2049771920119, -31.3917793426137]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03060 - BV. MITRE - JUJUY, ID: 93250"}, "geometry": {"type": "Point", "coordinates": [[-64.1881168261443, -31.4070634821142]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03070 - BV. MITRE - LA TABLADA, ID: 93251"}, "geometry": {"type": "Point", "coordinates": [[-64.1871780529891, -31.4071962573224]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03090 - AV. GRAL. PAZ - BV. MITRE, ID: 93252"}, "geometry": {"type": "Point", "coordinates": [[-64.1832673922454, -31.4070039621324]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03100 - RIVERA INDARTE - IGUALDAD, ID: 93253"}, "geometry": {"type": "Point", "coordinates": [[-64.181937016574, -31.4075808465202]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03110 - AV. GRAL. PAZ - LA TABLADA, ID: 93254"}, "geometry": {"type": "Point", "coordinates": [[-64.1837823763763, -31.4082492954229]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03120 - HUMBERTO 1º - URQUIZA, ID: 93255"}, "geometry": {"type": "Point", "coordinates": [[-64.1925961151992, -31.4069123928558]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03130 - HUMBERTO 1º - FRAGUEIRO, ID: 93256"}, "geometry": {"type": "Point", "coordinates": [[-64.1913676634704, -31.407278669426]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03140 - HUMBERTO 1º - FIGUEROA ALCORTA, ID: 93257"}, "geometry": {"type": "Point", "coordinates": [[-64.189865626422, -31.4077227778498]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03150 - HUMBERTO 1º - JUJUY, ID: 93258"}, "geometry": {"type": "Point", "coordinates": [[-64.1884869709884, -31.4081073648897]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03160 - HUMBERTO 1º - SUCRE, ID: 93259"}, "geometry": {"type": "Point", "coordinates": [[-64.1870063916122, -31.4085423126188]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01010 - CASTRO BARROS - ZUÑIGA - M. P. CABRERA, ID: 93260"}, "geometry": {"type": "Point", "coordinates": [[-64.2037058249389, -31.3909733992075]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 01011 - MONSEÑOR P. CABRERA - ITALIA, ID: 93261"}, "geometry": {"type": "Point", "coordinates": [[-64.2031264677917, -31.3896362505701]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03170 - HUMBERTO 1º - TUCUMÁN, ID: 93262"}, "geometry": {"type": "Point", "coordinates": [[-64.1856277361785, -31.4089681016007]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03180 - AV. GRAL. PAZ - HUMBERTO 1º, ID: 93263"}, "geometry": {"type": "Point", "coordinates": [[-64.1842598095809, -31.4093435268422]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03190 - HUMBERTO 1º - RIVERA INDARTE, ID: 93264"}, "geometry": {"type": "Point", "coordinates": [[-64.182843603221, -31.4097693121884]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03200 - HUMBERTO 1º - SAN MARTÍN, ID: 93265"}, "geometry": {"type": "Point", "coordinates": [[-64.1815507784759, -31.4101722040702]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03210 - SARMIENTO - REPUBLICA DE ISRAEL, ID: 93266"}, "geometry": {"type": "Point", "coordinates": [[-64.1808855906402, -31.4103599144699]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03220 - SARMIENTO - RIVADAVIA, ID: 93267"}, "geometry": {"type": "Point", "coordinates": [[-64.1802311316405, -31.410547624494]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03230 - SARMIENTO - ALVEAR, ID: 93268"}, "geometry": {"type": "Point", "coordinates": [[-64.1789383068954, -31.4109413564952]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03240 - RIVADAVIA - CATAMARCA, ID: 93269"}, "geometry": {"type": "Point", "coordinates": [[-64.1807836666976, -31.4118707405963]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03241 - LA RIOJA - SAN MARTÍN, ID: 93270"}, "geometry": {"type": "Point", "coordinates": [[-64.182119406787, -31.4114953254667]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03250 - ALVEAR - CATAMARCA, ID: 93271"}, "geometry": {"type": "Point", "coordinates": [[-64.1794532910262, -31.4122415760178]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03260 - SANTA ROSA - SAN MARTÍN, ID: 93272"}, "geometry": {"type": "Point", "coordinates": [[-64.1825700179015, -31.4126078317855]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03270 - LIMA - RIVADAVIA, ID: 93273"}, "geometry": {"type": "Point", "coordinates": [[-64.1812664643203, -31.4129786642936]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03280 - ALVEAR - LIMA, ID: 93274"}, "geometry": {"type": "Point", "coordinates": [[-64.1799307242309, -31.4133586516393]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04010 - HUMBERTO 1º - AVELLANEDA, ID: 93275"}, "geometry": {"type": "Point", "coordinates": [[-64.1940176859771, -31.4064728590843]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04020 - AVELLANEDA - LA RIOJA, ID: 93276"}, "geometry": {"type": "Point", "coordinates": [[-64.1944629326736, -31.4077273562762]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04030 - AVELLANEDA - SANTA ROSA, ID: 93277"}, "geometry": {"type": "Point", "coordinates": [[-64.194897450534, -31.4089406314021]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04040 - SANTA ROSA - FRAGUEIRO, ID: 93278"}, "geometry": {"type": "Point", "coordinates": [[-64.1922259703551, -31.4097006372633]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04050 -\tAV. COLÓN - RODRIGUEZ PEÑA, ID: 93279"}, "geometry": {"type": "Point", "coordinates": [[-64.1966301575576, -31.4096365406211]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04060 -\tAV. COLÓN - AVELLANEDA, ID: 93280"}, "geometry": {"type": "Point", "coordinates": [[-64.1952836886321, -31.4100073848731]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04070 -\tAV. COLÓN - URQUIZA, ID: 93281"}, "geometry": {"type": "Point", "coordinates": [[-64.1939103976165, -31.410419432323]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04080 -\tAV. COLÓN - FRAGUEIRO, ID: 93282"}, "geometry": {"type": "Point", "coordinates": [[-64.1926336661254, -31.4107856952038]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04090 - 9 DE JULIO - RODRIGUEZ PEÑA, ID: 93283"}, "geometry": {"type": "Point", "coordinates": [[-64.1970861330901, -31.4108909955175]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04100 - AVELLANEDA - 9 DE JULIO, ID: 93284"}, "geometry": {"type": "Point", "coordinates": [[-64.1957396641646, -31.4112755695719]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04110 -\tDEÁN FUNES - MARIANO MORENO, ID: 93285"}, "geometry": {"type": "Point", "coordinates": [[-64.1975057870695, -31.4120803848287]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04130 -\t27 DE ABRIL - PASO DE LOS ANDES, ID: 93287"}, "geometry": {"type": "Point", "coordinates": [[-64.1992962733184, -31.4127360209664]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04140 -\t27 DE ABRIL - MARIANO MORENO, ID: 93288"}, "geometry": {"type": "Point", "coordinates": [[-64.1978961602126, -31.4131617909174]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04150 -\t27 DE ABRIL - SAN JOSÉ DE CALASANZ, ID: 93289"}, "geometry": {"type": "Point", "coordinates": [[-64.1965443268691, -31.4135417775214]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04160 - CASEROS - PASO DE LOS ANDES, ID: 93290"}, "geometry": {"type": "Point", "coordinates": [[-64.1997307911788, -31.4138942938381]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04170 - CASEROS - MARIANO MORENO, ID: 93291"}, "geometry": {"type": "Point", "coordinates": [[-64.1982984915649, -31.4143154804278]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04180 - CASEROS - SAN JOSÉ DE CALASANZ, ID: 93292"}, "geometry": {"type": "Point", "coordinates": [[-64.1969734803115, -31.4146954623589]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04190 - CASEROS - GRAL. ARTIGAS, ID: 93293"}, "geometry": {"type": "Point", "coordinates": [[-64.1956323758041, -31.4151074892197]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04191 - 27 DE ABRIL - GRAL. ARTIGAS, ID: 93294"}, "geometry": {"type": "Point", "coordinates": [[-64.1952085867797, -31.413930918834]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04200 - DUARTE QUIRÓS - PASO DE LOS ANDES, ID: 93295"}, "geometry": {"type": "Point", "coordinates": [[-64.2001450807402, -31.4149554591023]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04210 -\tDUARTE QUIRÓS - MARIANO MORENO, ID: 93297"}, "geometry": {"type": "Point", "coordinates": [[-64.1987491026794, -31.4154488088737]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04220 -\tDUARTE QUIRÓS - SAN JOSÉ DE CALASANZ, ID: 93298"}, "geometry": {"type": "Point", "coordinates": [[-64.1973758116637, -31.4158460810352]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04230 -\tDUARTE QUIRÓS - GRAL. ARTIGAS, ID: 93299"}, "geometry": {"type": "Point", "coordinates": [[-64.1960293427383, -31.4162672588619]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04240 -\tBv. SAN JUAN - MISIONES, ID: 93300"}, "geometry": {"type": "Point", "coordinates": [[-64.2041939869796, -31.4163954430425]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04250 -\tBv. SAN JUAN - PARAGUAY, ID: 93301"}, "geometry": {"type": "Point", "coordinates": [[-64.2018443718825, -31.4168257743677]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04260 -\tBv. SAN JUAN - PASO DE LOS ANDES, ID: 93302"}, "geometry": {"type": "Point", "coordinates": [[-64.2008626833831, -31.4169814256374]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04261 - MONTEVIDEO - PASO DE LOS ANDES, ID: 93303"}, "geometry": {"type": "Point", "coordinates": [[-64.2011094466124, -31.4178100354026]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04270 - \tBv. SAN JUAN - MARIANO MORENO, ID: 93304"}, "geometry": {"type": "Point", "coordinates": [[-64.1993874684249, -31.4172103240943]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 428\tBv. SAN JUAN - SAN JOSÉ DE CALASANZ, ID: 93305"}, "geometry": {"type": "Point", "coordinates": [[-64.1980141774093, -31.4176314957956]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04290 -\tBv. SAN JUAN - GRAL. ARTIGAS, ID: 93306"}, "geometry": {"type": "Point", "coordinates": [[-64.1966677084838, -31.4180068863702]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04300 -\t27 DE ABRIL - MISIONES, ID: 93307"}, "geometry": {"type": "Point", "coordinates": [[-64.202107228366, -31.4119272053901]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05010 -\tTUCUMÁN - LA RIOJA, ID: 93308"}, "geometry": {"type": "Point", "coordinates": [[-64.1861802712356, -31.4102652963132]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05020 -\tAV. GRAL. PAZ - LA RIOJA, ID: 93309"}, "geometry": {"type": "Point", "coordinates": [[-64.1848016158019, -31.4106590294992]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05030 - FIGUEROA ALCORTA - SANTA ROSA, ID: 93310"}, "geometry": {"type": "Point", "coordinates": [[-64.1907358915159, -31.4102063506504]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05031 - FIGUEROA ALCORTA - LA RIOJA (este), ID: 93311"}, "geometry": {"type": "Point", "coordinates": [[-64.1901874915038, -31.4090657733994]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05032 - FIGUEROA ALCORTA - LA RIOJA (oeste), ID: 93312"}, "geometry": {"type": "Point", "coordinates": [[-64.1904718056594, -31.4089742061348]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05040 -\tSANTA ROSA - JUJUY, ID: 93313"}, "geometry": {"type": "Point", "coordinates": [[-64.1893881932174, -31.4105628855016]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05050 -\tSANTA ROSA - SUCRE, ID: 93314"}, "geometry": {"type": "Point", "coordinates": [[-64.1880095377837, -31.4109795087797]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05060 -\tSANTA ROSA - TUCUMÁN, ID: 93315"}, "geometry": {"type": "Point", "coordinates": [[-64.1866523400222, -31.4113961302079]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 03261 - SANTA ROSA - RIVERA INDARTE, ID: 93316"}, "geometry": {"type": "Point", "coordinates": [[-64.1839003935729, -31.4122247893074]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05070 - \tAV. GRAL. PAZ - SANTA ROSA, ID: 93317"}, "geometry": {"type": "Point", "coordinates": [[-64.1852951422607, -31.4118219062395]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05090 -\tAV. COLÓN - FIGUEROA ALCORTA, ID: 93318"}, "geometry": {"type": "Point", "coordinates": [[-64.1911745444213, -31.4112587826887]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05100 -\tAV. COLÓN - JUJUY, ID: 93319"}, "geometry": {"type": "Point", "coordinates": [[-64.1897905245696, -31.4116540377606]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05110 - AV. COLÓN - SUCRE, ID: 93320"}, "geometry": {"type": "Point", "coordinates": [[-64.1884762421523, -31.4120691301454]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05120 -\tAV. COLÓN - TUCUMÁN, ID: 93321"}, "geometry": {"type": "Point", "coordinates": [[-64.1871244088088, -31.4124399647827]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05130 -\tAV. COLÓN - AV. GRAL. PAZ, ID: 93322"}, "geometry": {"type": "Point", "coordinates": [[-64.1857350245391, -31.412874892428]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05140 - AV. COLÓN Nº 180 PEATONAL, ID: 93323"}, "geometry": {"type": "Point", "coordinates": [[-64.1854185238753, -31.4129847685667]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05150 -\tAV. COLÓN - RIVERA INDARTE, ID: 93324"}, "geometry": {"type": "Point", "coordinates": [[-64.1843617335235, -31.4133189743643]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05160 -\tAV. COLÓN - SAN MARTÍN, ID: 93325"}, "geometry": {"type": "Point", "coordinates": [[-64.1830420866881, -31.4136806477903]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05170 - AV. EMILIO OLMOS - RIVADAVIA, ID: 93326"}, "geometry": {"type": "Point", "coordinates": [[-64.181734398062, -31.4140520483225]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05171 -\tRIVADAVIA - 25 DE MAYO, ID: 93327"}, "geometry": {"type": "Point", "coordinates": [[-64.1822266951476, -31.4152417791113]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05180 - AV. EMILIO OLMOS - GRAL. ALVEAR, ID: 93328"}, "geometry": {"type": "Point", "coordinates": [[-64.1803866997634, -31.4144543495513]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05190 - AV. GRAL. PAZ Nº 160 PEATONAL, ID: 93329"}, "geometry": {"type": "Point", "coordinates": [[-64.1858101263915, -31.4130763319173]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05200 - FIGUEROA ALCORTA - 9 DE JULIO (este), ID: 93330"}, "geometry": {"type": "Point", "coordinates": [[-64.1915339604293, -31.412531528665]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05201- FIGUEROA ALCORTA - 9 DE JULIO oeste), ID: 93331"}, "geometry": {"type": "Point", "coordinates": [[-64.1918665543471, -31.4124445429789]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05210 -\tTUCUMÁN - 9 DE JULIO, ID: 93332"}, "geometry": {"type": "Point", "coordinates": [[-64.1876501217757, -31.4136806477903]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05220 - AV. GRAL. PAZ - 9 DE JULIO, ID: 93333"}, "geometry": {"type": "Point", "coordinates": [[-64.1862339154159, -31.4140926791081]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05230 -\tDEÁN FUNES - TUCUMÁN, ID: 93334"}, "geometry": {"type": "Point", "coordinates": [[-64.1881114617263, -31.4147931281954]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05240 -\tAV. VÉLEZ SARSFIELD - DEÁN FUNES, ID: 93335"}, "geometry": {"type": "Point", "coordinates": [[-64.1867167130385, -31.4152143107496]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05250 -\t27 DE ABRIL - BELGRANO, ID: 93336"}, "geometry": {"type": "Point", "coordinates": [[-64.1885781660949, -31.4158918613254]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05260 - AV. VÉLEZ SARSFIELD - 27 DE ABRIL, ID: 93337"}, "geometry": {"type": "Point", "coordinates": [[-64.1871726885711, -31.4162855708984]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 05270 -\t27 DE ABRIL - OBISPO TREJO, ID: 93338"}, "geometry": {"type": "Point", "coordinates": [[-64.1857833043014, -31.4166975907751]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06020 - MARCELO T. DE ALVEAR - DEÁN FUNES, ID: 93340"}, "geometry": {"type": "Point", "coordinates": [[-64.1914320364867, -31.4138454605346]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06021 -\tJUJUY - DEÁN FUNES, ID: 93341"}, "geometry": {"type": "Point", "coordinates": [[-64.1907453909789, -31.4140194292283]]}}
+{"type": "Feature", "properties": {"Name": "nombre: O603O - \tDEÁN FUNES - AYACUCHO, ID: 93342"}, "geometry": {"type": "Point", "coordinates": [[-64.1894096508895, -31.4143994123586]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06040 -\t27 DE ABRIL - CORRO, ID: 93343"}, "geometry": {"type": "Point", "coordinates": [[-64.1939050331985, -31.4143353189265]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06050 -\t27 DE ABRIL - ARTURO M. BAS, ID: 93344"}, "geometry": {"type": "Point", "coordinates": [[-64.1925800219451, -31.4147107226919]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06060 - MARCELO T. DE ALVEAR - 27 DE ABRIL, ID: 93345"}, "geometry": {"type": "Point", "coordinates": [[-64.1910028830443, -31.4152005765657]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06070 -\t27 DE ABRIL - AYACUCHO, ID: 93346"}, "geometry": {"type": "Point", "coordinates": [[-64.189860262004, -31.4155164622866]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06080 - \tCASEROS - CORRO, ID: 93347"}, "geometry": {"type": "Point", "coordinates": [[-64.194355644313, -31.4155073061937]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06090 - CASEROS - ARTURO M. BAS, ID: 93348"}, "geometry": {"type": "Point", "coordinates": [[-64.1930091753875, -31.4159101734352]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06100 - MARCELO T. DE ALVEAR- CASEROS, ID: 93349"}, "geometry": {"type": "Point", "coordinates": [[-64.1905415430938, -31.4166518108782]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06110 -\tCASEROS - BELGRANO, ID: 93350"}, "geometry": {"type": "Point", "coordinates": [[-64.1890824213897, -31.417086718997]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06120 -\tVÉLEZ SARSFIELD - CASEROS, ID: 93351"}, "geometry": {"type": "Point", "coordinates": [[-64.1876769438659, -31.4174575338004]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06140 - DUARTE QUIRÓS - CORRO, ID: 93352"}, "geometry": {"type": "Point", "coordinates": [[-64.1947847977553, -31.4167799945333]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06150 -\tDUARTE QUIRÓS - ARTURO M. BAS, ID: 93353"}, "geometry": {"type": "Point", "coordinates": [[-64.1934758797561, -31.4171508105492]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06160\tDUARTE QUIRÓS - BOLIVAR, ID: 93354"}, "geometry": {"type": "Point", "coordinates": [[-64.1921186819945, -31.4175216250993]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06170 -\tDUARTE QUIRÓS - AYACUCHO, ID: 93355"}, "geometry": {"type": "Point", "coordinates": [[-64.1908526793395, -31.4178970161136]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06180 -\tMARCELO T. DE ALVEAR - DUARTE QUIRÓS (ESTE), ID: 93356"}, "geometry": {"type": "Point", "coordinates": [[-64.1899299994384, -31.4181625356801]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06181 - MARCELO T. DE ALVEAR - DUARTE QUIRÓS (OESTE), ID: 93357"}, "geometry": {"type": "Point", "coordinates": [[-64.1902786866103, -31.4180709772938]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06182 - \tBELGRANO - DUARTE QUIRÓS, ID: 93358"}, "geometry": {"type": "Point", "coordinates": [[-64.1895920411025, -31.4182632498017]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06190 - \tVÉLEZ SARSFIELD - DUARTE QUIRÓS, ID: 93359"}, "geometry": {"type": "Point", "coordinates": [[-64.1882080212508, -31.4186569494216]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06200 -\tDUARTE QUIRÓS - OBISPO TREJO, ID: 93360"}, "geometry": {"type": "Point", "coordinates": [[-64.1867984086821, -31.4190420638754]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06210 -\tBv. SAN JUAN - CORRO, ID: 93361"}, "geometry": {"type": "Point", "coordinates": [[-64.1953373328124, -31.418377697536]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06220 -\tBv. SAN JUAN - ARTURO M. BAS, ID: 93362"}, "geometry": {"type": "Point", "coordinates": [[-64.1940874234115, -31.4187240917809]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06230 -\tBv. SAN JUAN - BOLIVAR, ID: 93363"}, "geometry": {"type": "Point", "coordinates": [[-64.1928053275024, -31.4190832010978]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06240 -\tBv. SAN JUAN - AYACUCHO, ID: 93364"}, "geometry": {"type": "Point", "coordinates": [[-64.191485680667, -31.4194128073131]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06250 -\tMARCELO T. DE ALVEAR - Bv. SAN JUAN, ID: 93365"}, "geometry": {"type": "Point", "coordinates": [[-64.1901338473235, -31.4198110799446]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06260 -\tVÉLEZ SARSFIELD - Bv. SAN JUAN, ID: 93366"}, "geometry": {"type": "Point", "coordinates": [[-64.1887927428161, -31.4201773061592]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06261 - AV. H. YRIGOYEN PEATONAL, ID: 93367"}, "geometry": {"type": "Point", "coordinates": [[-64.1885728016769, -31.4207449539657]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06262 - AV. VÉLEZ SARSFIELD PEATONAL, ID: 93368"}, "geometry": {"type": "Point", "coordinates": [[-64.1890180483733, -31.4205938867397]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06270 -\tBv. SAN JUAN - OBISPO TREJO, ID: 93369"}, "geometry": {"type": "Point", "coordinates": [[-64.1874248162185, -31.4205206419366]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06280 - BV. SAN JUAN - INDEPENDENCIA, ID: 93370"}, "geometry": {"type": "Point", "coordinates": [[-64.186072982875, -31.4208731320272]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06310\tBv. A. ILLIA - BUENOS AIRES, ID: 93371"}, "geometry": {"type": "Point", "coordinates": [[-64.1847318783675, -31.4211981541835]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07030 - Bv. JUAN D. PERON - ROSARIO DE SANTA FE, ID: 93374"}, "geometry": {"type": "Point", "coordinates": [[-64.1761058941756, -31.4183324270613]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07040 - SAN JERONIMO - BUENOS AIRES, ID: 93375"}, "geometry": {"type": "Point", "coordinates": [[-64.1831601038848, -31.4174717762607]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07050 - SAN JERONIMO - ITUZAINGÓ, ID: 93376"}, "geometry": {"type": "Point", "coordinates": [[-64.1818297282134, -31.4178929467881]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07060 - BV. CHACABUCO - SAN JERÓNIMO, ID: 93377"}, "geometry": {"type": "Point", "coordinates": [[-64.1804832592879, -31.4183232712433]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07070 - SAN JERÓNIMO - OBISPO SALGUERO, ID: 93378"}, "geometry": {"type": "Point", "coordinates": [[-64.1792065277969, -31.4187123927211]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07071 - OBISPO SALGUERO - ROSARIO DE SANTA FE, ID: 93379"}, "geometry": {"type": "Point", "coordinates": [[-64.1787290945922, -31.4175724911241]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07080 - SAN JERÓNIMO - PARANÁ, ID: 93380"}, "geometry": {"type": "Point", "coordinates": [[-64.1778493300353, -31.4191198240678]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07090 - SAN JERÓNIMO - BALCARCE, ID: 93381"}, "geometry": {"type": "Point", "coordinates": [[-64.1765189543639, -31.4195089422411]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07091 - ENTRE RIOS - BALCARCE, ID: 93382"}, "geometry": {"type": "Point", "coordinates": [[-64.1769695654784, -31.4206671314857]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07100 - \tBv. JUAN D. PERON - SAN JERÓNIMO, ID: 93383"}, "geometry": {"type": "Point", "coordinates": [[-64.1758591309463, -31.4197149453263]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07120 - ENTRE RIOS - BUENOS AIRES, ID: 93385"}, "geometry": {"type": "Point", "coordinates": [[-64.1836482659255, -31.4186437243423]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07130 - ENTRE RIOS - ITUZAINGÓ, ID: 93386"}, "geometry": {"type": "Point", "coordinates": [[-64.182301797, -31.4190740453531]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07140 - BV. CHACABUCO - ENTRE RÍOS, ID: 93387"}, "geometry": {"type": "Point", "coordinates": [[-64.1809499636565, -31.4194448523001]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07150 - ENTRE RÍOS - OBISPO SALGUERO, ID: 93388"}, "geometry": {"type": "Point", "coordinates": [[-64.1796893254195, -31.4198339691249]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07160 - ENTRE RÍOS - PARANÁ, ID: 93389"}, "geometry": {"type": "Point", "coordinates": [[-64.178332127658, -31.4202459734152]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07170 - Bv. JUAN D. PERÓN - ENTRE RÍOS - T.C. DE ALLENDE, ID: 93390"}, "geometry": {"type": "Point", "coordinates": [[-64.1752529517089, -31.4213537981975]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07180 - CORRIENTES - ITUZAINGÓ, ID: 93391"}, "geometry": {"type": "Point", "coordinates": [[-64.1827845946227, -31.420213928702]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07190 - BV. CHACABUCO - CORRIENTES, ID: 93392"}, "geometry": {"type": "Point", "coordinates": [[-64.1814595833694, -31.4206121979316]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07200 - CORRIENTES - OBISPO SALGUERO, ID: 93393"}, "geometry": {"type": "Point", "coordinates": [[-64.1801935807143, -31.4209829987976]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07210 - Bv. JUAN D. PERÓN - TERMINAL DE OMNIBUS, ID: 93394"}, "geometry": {"type": "Point", "coordinates": [[-64.1747862473403, -31.4223746334162]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07220 - Bv. A. ILLIA - ITUZAINGÓ, ID: 93395"}, "geometry": {"type": "Point", "coordinates": [[-64.1833371296798, -31.4215460639759]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07230 - BV. CHACABUCO - BV. A. ILLIA, ID: 93396"}, "geometry": {"type": "Point", "coordinates": [[-64.1819489747832, -31.4219362528826]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07240 - BV. A. ILLIA - OBISPO SALGUERO, ID: 93397"}, "geometry": {"type": "Point", "coordinates": [[-64.1807085648452, -31.4222556128419]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07250 - BV. A. ILLIA - PARANÁ, ID: 93398"}, "geometry": {"type": "Point", "coordinates": [[-64.1793460026656, -31.4226309849094]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07260 - BV. A. ILLIA - BALCARCE, ID: 93399"}, "geometry": {"type": "Point", "coordinates": [[-64.1778654232894, -31.4229972001128]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07270 - BV. A. ILLIA - TRÁNSITO C.ALLENDE, ID: 93400"}, "geometry": {"type": "Point", "coordinates": [[-64.1767657175933, -31.423299326579]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07280 - BV. JUAN D. PERÓN - LEOPOLDO LUGONES, ID: 93401"}, "geometry": {"type": "Point", "coordinates": [[-64.1740727797423, -31.4233267925731]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07290 - ITUZAINGÓ - RONDEAU, ID: 93402"}, "geometry": {"type": "Point", "coordinates": [[-64.1838896647369, -31.422850714203]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07300 - BV. CHACABUCO - RONDEAU, ID: 93403"}, "geometry": {"type": "Point", "coordinates": [[-64.1825700179015, -31.4232855935789]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07310 - RONDEAU - OBISPO SALGUERO, ID: 93404"}, "geometry": {"type": "Point", "coordinates": [[-64.1813201085006, -31.4236472285767]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07320 - RONDEAU - PARANÁ, ID: 93405"}, "geometry": {"type": "Point", "coordinates": [[-64.1799682751571, -31.4240592161154]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07330 - SAN LORENZO - ITUZAINGÓ, ID: 93406"}, "geometry": {"type": "Point", "coordinates": [[-64.1844046488677, -31.4240409055966]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07340 - BV. CHACABUCO - SAN LORENZO, ID: 93407"}, "geometry": {"type": "Point", "coordinates": [[-64.1830689087783, -31.4244437361852]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07350 - BV. CHACABUCO - OBISPO ORO, ID: 93408"}, "geometry": {"type": "Point", "coordinates": [[-64.183551706401, -31.4256110195959]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07360 - RONDEAU - LEOPOLDO LUGONES - T.C.ALLENDE, ID: 93409"}, "geometry": {"type": "Point", "coordinates": [[-64.1773558035766, -31.4250845994644]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08010 - AV. MAIPÚ - SARMIENTO, ID: 93410"}, "geometry": {"type": "Point", "coordinates": [[-64.1775757447158, -31.4113554346132]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08020 - SARMIENTO - SALTA, ID: 93411"}, "geometry": {"type": "Point", "coordinates": [[-64.1762990132247, -31.411740006764]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08030 - SARMIENTO - Bv. GUZMÁN, ID: 93412"}, "geometry": {"type": "Point", "coordinates": [[-64.175274409381, -31.412065060567]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08040 - SARMIENTO - FRAY M. ESQUIÚ, ID: 93413"}, "geometry": {"type": "Point", "coordinates": [[-64.1719377413665, -31.4119094011399]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08050 - SARMIENTO - DAVID LUQUE, ID: 93414"}, "geometry": {"type": "Point", "coordinates": [[-64.1695666685973, -31.4112730260901]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08060 - SARMIENTO - PRINGLES, ID: 93415"}, "geometry": {"type": "Point", "coordinates": [[-64.1683328524505, -31.4109296564647]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08070 - SARMIENTO - JACINTO RÍOS, ID: 93416"}, "geometry": {"type": "Point", "coordinates": [[-64.1671419516479, -31.410609177014]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08080 - SARMIENTO - GRAL. VIAMONTE, ID: 93417"}, "geometry": {"type": "Point", "coordinates": [[-64.1659510508453, -31.4102886964685]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08090 - SARMIENTO - ROMA, ID: 93418"}, "geometry": {"type": "Point", "coordinates": [[-64.1647225991164, -31.4099407449226]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08091 - ROMA - CATAMARCA, ID: 93419"}, "geometry": {"type": "Point", "coordinates": [[-64.1643309966003, -31.410957126081]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08100 - AV. MAIPÚ - CATAMARCA, ID: 93420"}, "geometry": {"type": "Point", "coordinates": [[-64.1780907288467, -31.4126373356523]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08110 - AV. MAIPÚ - LIMA, ID: 93421"}, "geometry": {"type": "Point", "coordinates": [[-64.1785627976333, -31.4137727190887]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08120 - LIMA - SALTA, ID: 93422"}, "geometry": {"type": "Point", "coordinates": [[-64.1772807017242, -31.4141252345376]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08130 - GRAL. VIAMONTE - LIMA, ID: 93423"}, "geometry": {"type": "Point", "coordinates": [[-64.165183939067, -31.4123397530436]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08140 - AV. EMILIO OLMOS - AV. MAIPÚ, ID: 93424"}, "geometry": {"type": "Point", "coordinates": [[-64.179045595256, -31.4148668860921]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08150 - AV. EMILIO OLMOS - SALTA, ID: 93425"}, "geometry": {"type": "Point", "coordinates": [[-64.1777742281829, -31.4152834902577]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08151 - SALTA - 25 DE MAYO, ID: 93426"}, "geometry": {"type": "Point", "coordinates": [[-64.1782677546416, -31.4164325756744]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08160 - AV. EMILIO OLMOS - SANTIAGO DEL ESTERO, ID: 93427"}, "geometry": {"type": "Point", "coordinates": [[-64.1764653101836, -31.415677202384]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08161 - AV. EMILIO OLMOS - Bv. GUZMÁN, ID: 93428"}, "geometry": {"type": "Point", "coordinates": [[-64.1760415211593, -31.4158236994976]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08170 - AV. 24 DE SEPTIEMBRE - GRAL. OCAMPO, ID: 93429"}, "geometry": {"type": "Point", "coordinates": [[-64.1731983796035, -31.4157184047203]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08180 - AV. 24 DE SEPTIEMBRE - OVIDIO LAGOS, ID: 93430"}, "geometry": {"type": "Point", "coordinates": [[-64.1720074788009, -31.4153704733115]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08190 - AV. 24 DE SEPTIEMBRE - FRAY M. ESQUIÚ, ID: 93431"}, "geometry": {"type": "Point", "coordinates": [[-64.1707843914901, -31.4150408528917]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08200 - AV. 24 DE SEPTIEMBRE - FÉLIX FRÍAS, ID: 93432"}, "geometry": {"type": "Point", "coordinates": [[-64.1695881262694, -31.4147020751422]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08210 - AV. 24 DE SEPTIEMBRE - DAVID LUQUE, ID: 93433"}, "geometry": {"type": "Point", "coordinates": [[-64.1683972254668, -31.4143632961694]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08220 - AV. 24 DE SEPTIEMBRE - CNEL. PRINGLES, ID: 93434"}, "geometry": {"type": "Point", "coordinates": [[-64.167174138156, -31.414043845838]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08230 - AV. 24 DE SEPTIEMBRE - JACINTO RÍOS, ID: 93435"}, "geometry": {"type": "Point", "coordinates": [[-64.1659778729354, -31.4137015036779]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08240 - AV. 24 DE SEPTIEMBRE - GRAL. VIAMONTE, ID: 93436"}, "geometry": {"type": "Point", "coordinates": [[-64.1648084298049, -31.4133947681455]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08250 - AV. 24 DE SEPTIEMBRE - ROMA, ID: 93437"}, "geometry": {"type": "Point", "coordinates": [[-64.1635531559859, -31.4130697189496]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08260 - AV. 24 DE SEPTIEMBRE - GRAL. DEHEZA, ID: 93438"}, "geometry": {"type": "Point", "coordinates": [[-64.1623461619292, -31.4127400904458]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08270 - AV. 24 DE SEPTIEMBRE - GRAL. GÜEMES, ID: 93439"}, "geometry": {"type": "Point", "coordinates": [[-64.1611713543807, -31.4124196171791]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08280 - AV. 24 DE SEPTIEMBRE - GRAL. LAMADRID, ID: 93440"}, "geometry": {"type": "Point", "coordinates": [[-64.159969724742, -31.4120762517499]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08290 - AV. 24 DE SEPTIEMBRE - MÉJICO, ID: 93441"}, "geometry": {"type": "Point", "coordinates": [[-64.1587466374312, -31.4117557762156]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08300 - AV. 24 DE SEPTIEMBRE - AV. PATRIA, ID: 93442"}, "geometry": {"type": "Point", "coordinates": [[-64.1571212187682, -31.4113025303768]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08310 - AV. MAIPÚ - 25 DE MAYO, ID: 93443"}, "geometry": {"type": "Point", "coordinates": [[-64.1795337572967, -31.4160592134672]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08311 - ALVEAR - 25 DE MAYO, ID: 93444"}, "geometry": {"type": "Point", "coordinates": [[-64.1808855906402, -31.4156655029441]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08320 - GRAL. VIAMONTE - 25 DE MAYO, ID: 93445"}, "geometry": {"type": "Point", "coordinates": [[-64.1644114628707, -31.4144614709748]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08330 - AV. PATRIA - 25 DE MAYO, ID: 93446"}, "geometry": {"type": "Point", "coordinates": [[-64.1567564383422, -31.4123463659929]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08340 - GRAL. VIAMONTE - ROSARIO DE SANTA FE, ID: 93447"}, "geometry": {"type": "Point", "coordinates": [[-64.1640091315185, -31.4154869592554]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08350 - BAHÍA BLANCA - ROSARIO DE SANTA FE, ID: 93448"}, "geometry": {"type": "Point", "coordinates": [[-64.1700065508758, -31.4171396199018]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08351 - ESQUIÚ - 25 DE MAYO, ID: 93449"}, "geometry": {"type": "Point", "coordinates": [[-64.1703832895109, -31.4160806410783]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 08360 - BAHÍA BLANCA - AV. ARENALES, ID: 93450"}, "geometry": {"type": "Point", "coordinates": [[-64.1707695276091, -31.4203289462126]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09010 - AV. JUAN B. JUSTO - LUIS DE GONGORA, ID: 93451"}, "geometry": {"type": "Point", "coordinates": [[-64.1760254279052, -31.3805153511131]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09020 - AV. JUAN B. JUSTO - ARGENSOLA, ID: 93452"}, "geometry": {"type": "Point", "coordinates": [[-64.1760415211593, -31.381706079474]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09030 - AV. JUAN B. JUSTO - MAURICIO YADAROLA, ID: 93453"}, "geometry": {"type": "Point", "coordinates": [[-64.1759664193069, -31.3856445349791]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09040 - AV. JUAN B. JUSTO - FRAY LEÓN TORRES, ID: 93454"}, "geometry": {"type": "Point", "coordinates": [[-64.175998605815, -31.3879754732874]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09050 - AV. JUAN B. JUSTO - DIAGONAL ICA - CURA BROCHERO, ID: 93455"}, "geometry": {"type": "Point", "coordinates": [[-64.1759503260528, -31.3899445902336]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09060 - AV. JUAN B. JUSTO - A. LÓPEZ - SARACHAGA, ID: 93456"}, "geometry": {"type": "Point", "coordinates": [[-64.1758966818725, -31.3926142805223]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09070 - AV. JUAN B. JUSTO - ANTONIO M. GIANELLI, ID: 93457"}, "geometry": {"type": "Point", "coordinates": [[-64.1758591309463, -31.395077838179]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09080 - AV. JUAN B. JUSTO - JERÓNIMO CORTÉS, ID: 93459"}, "geometry": {"type": "Point", "coordinates": [[-64.1758549959013, -31.3974594829042]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09090 - AV. JUAN B. JUSTO - JERÓNIMO LUIS DE CABRERA, ID: 93460"}, "geometry": {"type": "Point", "coordinates": [[-64.1758376732741, -31.4000917567772]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09100 - AV. JUAN B. JUSTO - ESQUIÚ - BEDOYA, ID: 93461"}, "geometry": {"type": "Point", "coordinates": [[-64.1758376732741, -31.4014974374864]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09120 - AV. JUAN B. JUSTO - FAUSTINO ALLENDE, ID: 93462"}, "geometry": {"type": "Point", "coordinates": [[-64.1759342327987, -31.4037730388286]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09130 - FRAY M. ESQUIÚ - COCHABAMBA, ID: 93463"}, "geometry": {"type": "Point", "coordinates": [[-64.1750008240615, -31.4035944725089]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09140 - FRAY M. ESQUIÚ - CHARCAS, ID: 93464"}, "geometry": {"type": "Point", "coordinates": [[-64.1746199503814, -31.4046338152956]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09150 - AV. MAIPÚ - FRAY M. ESQUIÚ, ID: 93465"}, "geometry": {"type": "Point", "coordinates": [[-64.1742176190291, -31.4057509814906]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09160 - ALVEAR - COSTANERA(NORTE), ID: 93466"}, "geometry": {"type": "Point", "coordinates": [[-64.1769534722243, -31.4063690800233]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09170 - GRAL. ALVEAR - Bv. GUZMÁN (COSTANERA SUR), ID: 93467"}, "geometry": {"type": "Point", "coordinates": [[-64.1774321348021, -31.407386072175]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09180 - AV. MAIPU - Bv. OCAMPO (COSTANERA NORTE), ID: 93468"}, "geometry": {"type": "Point", "coordinates": [[-64.1754407063399, -31.4071703128028]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09190 - AV. MAIPÚ - Bv. GUZMÁN (COSTANERA SUR), ID: 93469"}, "geometry": {"type": "Point", "coordinates": [[-64.1762507334624, -31.4082187727923]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09200 - LIBERTAD - RIVADAVIA, ID: 93470"}, "geometry": {"type": "Point", "coordinates": [[-64.1792923584853, -31.4083835951312]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09210 - GRAL. ALVEAR - LIBERTAD, ID: 93471"}, "geometry": {"type": "Point", "coordinates": [[-64.1780102625762, -31.4087498659589]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09220 - AV. MAIPÚ - LIBERTAD, ID: 93472"}, "geometry": {"type": "Point", "coordinates": [[-64.1766852513229, -31.4091573405747]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09230 - AV. MAIPÚ - ONCATIVO, ID: 93473"}, "geometry": {"type": "Point", "coordinates": [[-64.1771358624374, -31.4102378264943]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10010 - DUARTE QUIRÓS - FÉLIX PAZ, ID: 93474"}, "geometry": {"type": "Point", "coordinates": [[-64.2290795222198, -31.4056319398242]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10020 - DUARTE QUIRÓS - BV. JUAN PIÑERO, ID: 93475"}, "geometry": {"type": "Point", "coordinates": [[-64.2272878065978, -31.4059158081641]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10030 - DUARTE QUIRÓS - MAESTRO VIDAL, ID: 93476"}, "geometry": {"type": "Point", "coordinates": [[-64.2239404097472, -31.40696428217]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10040 - DUARTE QUIRÓS - ALMIRANTE BROWN, ID: 93477"}, "geometry": {"type": "Point", "coordinates": [[-64.2193216458236, -31.4084339574547]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10041 - DUARTE QUIRÓS - JUNCAL, ID: 93478"}, "geometry": {"type": "Point", "coordinates": [[-64.2184526101027, -31.4088048064597]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10042 - DUARTE QUIRÓS - ESPORA, ID: 93479"}, "geometry": {"type": "Point", "coordinates": [[-64.2204910889541, -31.4080676853939]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10050 - DUARTE QUIRÓS - JOSÉ ECHEVERRÍA, ID: 93481"}, "geometry": {"type": "Point", "coordinates": [[-64.2170256749068, -31.4091481838612]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10060 - DUARTE QUIRÓS - VIEYTES, ID: 93482"}, "geometry": {"type": "Point", "coordinates": [[-64.2140859738265, -31.4101874651389]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10070 - DUARTE QUIRÓS - ING. LÓPEZ, ID: 93483"}, "geometry": {"type": "Point", "coordinates": [[-64.2102289572631, -31.4113228782227]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10080 - DUARTE QUIRÓS - SOL DE MAYO, ID: 93484"}, "geometry": {"type": "Point", "coordinates": [[-64.2091024294768, -31.4116982940423]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10090 - DUARTE QUIRÓS - RÍO NEGRO, ID: 93485"}, "geometry": {"type": "Point", "coordinates": [[-64.2062807455932, -31.4125864669516]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10100 - DUARTE QUIRÓS - NUEVO CENTRO SHOPPING, ID: 93487"}, "geometry": {"type": "Point", "coordinates": [[-64.2048645392333, -31.4131083790689]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10110 - DUARTE QUIRÓS - MISIONES, ID: 93489"}, "geometry": {"type": "Point", "coordinates": [[-64.2023539915954, -31.4139507574141]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10120 - DUARTE QUIRÓS - DIEGO CALA, ID: 93490"}, "geometry": {"type": "Point", "coordinates": [[-64.2322123423492, -31.4050413077845]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 10121 - DUARTE QUIRÓS - CANGAYE, ID: 93491"}, "geometry": {"type": "Point", "coordinates": [[-64.2338645831023, -31.4046796010567]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11010 - BELGRANO - MONTEVIDEO, ID: 93492"}, "geometry": {"type": "Point", "coordinates": [[-64.1900533810531, -31.4210053791042]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11020 - AV. VÉLEZ SARSFIELD - MONTEVIDEO, ID: 93493"}, "geometry": {"type": "Point", "coordinates": [[-64.1892594471847, -31.4212022233656]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11030 - AV. H. YRIGOYEN - OB. TREJO - MONTEVIDEO, ID: 93494"}, "geometry": {"type": "Point", "coordinates": [[-64.1880309954558, -31.4217149320607]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11040 - MARCELO T. DE ALVEAR - SAN LUIS, ID: 93495"}, "geometry": {"type": "Point", "coordinates": [[-64.1918504610931, -31.4217561317449]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11050 - BELGRANO - SAN LUIS, ID: 93496"}, "geometry": {"type": "Point", "coordinates": [[-64.1910350695525, -31.4219575521627]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11060 - AV. VÉLEZ SARSFIELD - SAN LUIS, ID: 93497"}, "geometry": {"type": "Point", "coordinates": [[-64.1897422448073, -31.4223420808498]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11070 - AV. H. YRIGOYEN - INDEPENDENCIA - SAN LUIS, ID: 93498"}, "geometry": {"type": "Point", "coordinates": [[-64.1872638836776, -31.4233217063328]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11080 - BELGRANO - LAPRIDA, ID: 93499"}, "geometry": {"type": "Point", "coordinates": [[-64.1916895285522, -31.423083667437]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11090 - AV. VÉLEZ SARSFIELD - LAPRIDA, ID: 93500"}, "geometry": {"type": "Point", "coordinates": [[-64.19022504243, -31.4235185457326]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 1110\t0 - AV. H. YRIGOYEN - BUENOS AIRES - OB. ORO, ID: 93501"}, "geometry": {"type": "Point", "coordinates": [[-64.1865075007354, -31.4249101427266]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11110 - BELGRANO - ACHÁVAL RODRÍGUEZ, ID: 93502"}, "geometry": {"type": "Point", "coordinates": [[-64.1921776905929, -31.4242143468109]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 1112\t0 - AV. VÉLEZ SARSFIELD - ACHÁVAL RODRÍGUEZ, ID: 93503"}, "geometry": {"type": "Point", "coordinates": [[-64.1907132044707, -31.4246675302632]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11130 - AV. H. YRIGOYEN - DERQUI, ID: 93504"}, "geometry": {"type": "Point", "coordinates": [[-64.1860193386947, -31.4261506607948]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11140 - BELGRANO - FRUCTUOSO RIVERA, ID: 93505"}, "geometry": {"type": "Point", "coordinates": [[-64.1926443949615, -31.4253979087991]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11150 - AV. VÉLEZ SARSFIELD - FRUCTUOSO RIVERA, ID: 93506"}, "geometry": {"type": "Point", "coordinates": [[-64.1912120953475, -31.4258373539053]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11160 - H. YRIGOYEN - LARRAÑAGA, ID: 93507"}, "geometry": {"type": "Point", "coordinates": [[-64.1852897778426, -31.4277049726311]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11170 - AV. PUEYRREDÓN - ARTURO M. BAS, ID: 93508"}, "geometry": {"type": "Point", "coordinates": [[-64.1970163956557, -31.4247845132283]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11180 - AV. PUEYRREDON - MARCELO T. DE ALVEAR (ESTE), ID: 93509"}, "geometry": {"type": "Point", "coordinates": [[-64.1940337792312, -31.4257091826287]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11181 - AV. PUEYRREDÓN - MARCELO T. DE ALVEAR (OESTE), ID: 93510"}, "geometry": {"type": "Point", "coordinates": [[-64.1943234578048, -31.4256267867156]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 1119\t0 - AV. PUEYRREDÓN - BELGRANO, ID: 93511"}, "geometry": {"type": "Point", "coordinates": [[-64.192928709117, -31.4260753858113]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11200 -AV. VÉLEZ SARSFIELD - AV. PUEYRREDÓN, ID: 93512"}, "geometry": {"type": "Point", "coordinates": [[-64.1914964095031, -31.426510250233]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11210 - AV. PUEYRREDÓN - OBISPO TREJO, ID: 93513"}, "geometry": {"type": "Point", "coordinates": [[-64.1901392117416, -31.4269084927238]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11220 - AV. PUEYRREDÓN - INDEPENDENCIA, ID: 93514"}, "geometry": {"type": "Point", "coordinates": [[-64.1888249293243, -31.4273204659343]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11230 - AV. JOSÉ M. ESTRADA - BUENOS AIRES, ID: 93515"}, "geometry": {"type": "Point", "coordinates": [[-64.1874945536529, -31.4277370147846]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11240 - AV. JOSE M. ESTRADA - ITUZAINGÓ, ID: 93516"}, "geometry": {"type": "Point", "coordinates": [[-64.1861588135635, -31.4281627166428]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11260 - BELGRANO - PEREDO, ID: 93518"}, "geometry": {"type": "Point", "coordinates": [[-64.193105734912, -31.426510250233]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11270 - MARCELO T. DE ALVEAR - AV. JULIO A. ROCA, ID: 93519"}, "geometry": {"type": "Point", "coordinates": [[-64.1946506873046, -31.4269039152335]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11280 - AV. JULIO A. ROCA - ARTURO M. BAS, ID: 93520"}, "geometry": {"type": "Point", "coordinates": [[-64.198507703868, -31.4285517972957]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11290 - AV. JULIO A. ROCA - AV. ELPIDIO GONZÁLEZ, ID: 93521"}, "geometry": {"type": "Point", "coordinates": [[-64.2015761509811, -31.4287486257168]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11300 - AV. JULIO A. ROCA - PASO DE LOS ANDES, ID: 93522"}, "geometry": {"type": "Point", "coordinates": [[-64.2044300213729, -31.4284648264663]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11310 - AV. JULIO A. ROCA - LUIS AGOTE, ID: 93523"}, "geometry": {"type": "Point", "coordinates": [[-64.2086625471984, -31.4280162388021]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12010 - AV. CARAFFA - JULIAN PAZ, ID: 98007"}, "geometry": {"type": "Point", "coordinates": [[-64.208764471141, -31.3891203137458]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12011 - AV. CARAFFA - JUAN L A SERNA, ID: 98008"}, "geometry": {"type": "Point", "coordinates": [[-64.2074662819778, -31.3895416115213]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12020 - AV. CARAFFA - ZIPOLI, ID: 98009"}, "geometry": {"type": "Point", "coordinates": [[-64.2126214877044, -31.3878793060535]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12030 - AV. CARAFFA - LAS PLAYAS, ID: 98010"}, "geometry": {"type": "Point", "coordinates": [[-64.2138821259414, -31.3874763184784]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12040 - AV CARAFFA - GATO Y MANCHA, ID: 98011"}, "geometry": {"type": "Point", "coordinates": [[-64.2164785042678, -31.3866520203251]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12050 - AV. CARAFFA - GALEANO, ID: 98012"}, "geometry": {"type": "Point", "coordinates": [[-64.2177337780868, -31.3862307095861]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12060 - AV. OCTAVIO PINTO - COSTANERA SUR, ID: 98013"}, "geometry": {"type": "Point", "coordinates": [[-64.2120635882293, -31.3923395303087]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12070 - AV. OCTAVIO PINTO - GIRO - COSTANERA NORTE, ID: 98014"}, "geometry": {"type": "Point", "coordinates": [[-64.2130077258025, -31.3914969579738]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12080 - AV. OCTAVIO PINTO - ZIPOLI, ID: 98015"}, "geometry": {"type": "Point", "coordinates": [[-64.2141127959167, -31.3904712075351]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12090 - AV. OCTAVIO PINTO - RUFINO CUERVO, ID: 98016"}, "geometry": {"type": "Point", "coordinates": [[-64.2164677754317, -31.3882639743983]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12100 - AV. OCTAVIO PINTO - GALEANO, ID: 98017"}, "geometry": {"type": "Point", "coordinates": [[-64.2177659645949, -31.3870687497402]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12110 - AV. OCTAVIO PINTO - AV. CARAFFA, ID: 98018"}, "geometry": {"type": "Point", "coordinates": [[-64.2186523229429, -31.3860481028499]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12130 - AV. OCTAVIO PINTO - OBISPO LAZCANO, ID: 98019"}, "geometry": {"type": "Point", "coordinates": [[-64.2225898057768, -31.3832851069783]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12150 - AV. RAFAEL NÚÑEZ - RODRÍGUEZ DEL BUSTO, ID: 98020"}, "geometry": {"type": "Point", "coordinates": [[-64.223532713977, -31.3793383470923]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12151 - AV. RAFAEL NÚÑEZ - ADOLFO ORMA, ID: 98021"}, "geometry": {"type": "Point", "coordinates": [[-64.2243588343536, -31.3785139775181]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12160 - AV. RAFAEL NÚÑEZ - PEDRO DE ANGELIS, ID: 98022"}, "geometry": {"type": "Point", "coordinates": [[-64.2256248370086, -31.3770529936694]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12170 - AV. RAFAEL NÚÑEZ - EMILIO PETTORUTI, ID: 98023"}, "geometry": {"type": "Point", "coordinates": [[-64.2289185896789, -31.3733294430688]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12171 - AV. RAFAEL NÚÑEZ - BEVERINA, ID: 98024"}, "geometry": {"type": "Point", "coordinates": [[-64.2284357920562, -31.3739248546752]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12180 - AV. RAFAEL NÚÑEZ - CASTAGNINO (PEATONAL), ID: 98025"}, "geometry": {"type": "Point", "coordinates": [[-64.2296803370391, -31.3724617637822]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12190 - AV. RAFAEL NÚÑEZ - JUAN BATLLE PLANAS, ID: 98026"}, "geometry": {"type": "Point", "coordinates": [[-64.2304957285796, -31.3715136687598]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12200 - AV. RAFAEL NÚÑEZ - JOSÉ E. BUSTOS, ID: 98027"}, "geometry": {"type": "Point", "coordinates": [[-64.2312801629851, -31.3706923475705]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12201 - AV. RAFAEL NÚÑEZ - GERVASIO MÉNDEZ, ID: 98028"}, "geometry": {"type": "Point", "coordinates": [[-64.2316759005462, -31.3701854036067]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12210 - AV. RAFAEL NÚÑEZ - GREGORIO Y GAVIER, ID: 98029"}, "geometry": {"type": "Point", "coordinates": [[-64.2341018468687, -31.3672754321376]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12220 - AV. RAFAEL NÚÑEZ - MARTEL DE LOS RÍOS, ID: 98030"}, "geometry": {"type": "Point", "coordinates": [[-64.2347389832412, -31.3663745524902]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12230 - AV. RAFAEL NÚÑEZ - JOSÉ ECHENIQUE, ID: 98031"}, "geometry": {"type": "Point", "coordinates": [[-64.2362839356338, -31.3641026254227]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12240 - AV. RAFAEL NÚÑEZ - MANUEL LÓPEZ, ID: 98032"}, "geometry": {"type": "Point", "coordinates": [[-64.2370993271743, -31.3628338035461]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12250 - AV. RAFAEL NÚÑEZ - HUGO WAST, ID: 98033"}, "geometry": {"type": "Point", "coordinates": [[-64.2379576340591, -31.3614138020762]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12260 - AV. RAFAEL NÚÑEZ - ÁVILA Y ZÁRATE, ID: 98034"}, "geometry": {"type": "Point", "coordinates": [[-64.2384136095916, -31.3604747570638]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12270 - AV. RAFAEL NÚÑEZ - NUDO VIAL, ID: 98035"}, "geometry": {"type": "Point", "coordinates": [[-64.2396527901565, -31.3581797831948]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12280- AV. SIMÓN LAPLACE - BLAS PASCAL, ID: 98036"}, "geometry": {"type": "Point", "coordinates": [[-64.2413759977171, -31.3579859242411]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12281 - AV. SIMÓN LAPLACE - MARIOTTE, ID: 98037"}, "geometry": {"type": "Point", "coordinates": [[-64.2430538311874, -31.3587523867105]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12290 - AV. RAFAEL NÚÑEZ- ASTRADA PONCE, ID: 98038"}, "geometry": {"type": "Point", "coordinates": [[-64.2426032200728, -31.3559626294892]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12300 - AV. RAFAEL NÚÑEZ - INGENIERO FUCHS, ID: 98039"}, "geometry": {"type": "Point", "coordinates": [[-64.243885315982, -31.3548036419722]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12310 - AV. RAFAEL NÚÑEZ- POTEL JUNOT, ID: 98040"}, "geometry": {"type": "Point", "coordinates": [[-64.2474365607177, -31.3513998924979]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12311 - AV. RAFAEL NÚÑEZ - GAUSS, ID: 98041"}, "geometry": {"type": "Point", "coordinates": [[-64.2477637902175, -31.3509188681685]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12320 - AV. RAFAEL NÚÑEZ - ÁNGEL LO CELSO, ID: 98042"}, "geometry": {"type": "Point", "coordinates": [[-64.248402155963, -31.3499018372007]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12330 - AV. RAFAEL NÚÑEZ - ANDRÉS PIÑERO, ID: 98043"}, "geometry": {"type": "Point", "coordinates": [[-64.2504620924865, -31.3465024917246]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 12340 - CPC ARGUELLO, ID: 98044"}, "geometry": {"type": "Point", "coordinates": [[-64.2540294304763, -31.341476549682]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13010 - AV. Monseñor Pablo Cabrera - Ciudad de Tampa, ID: 98045"}, "geometry": {"type": "Point", "coordinates": [[-64.2036790028487, -31.3882410775172]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13020 - AV. Monseñor Pablo Cabrera - Amado Nervo, ID: 98046"}, "geometry": {"type": "Point", "coordinates": [[-64.2039794102584, -31.3876732330778]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13030 - AV. Monseñor Pablo Cabrera - Córdoba, ID: 98047"}, "geometry": {"type": "Point", "coordinates": [[-64.2065489664947, -31.385585001416]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13040 - AV. Monseñor Pablo Cabrera - Julián Paz, ID: 98048"}, "geometry": {"type": "Point", "coordinates": [[-64.2070907727157, -31.3852781739919]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13050 - Av. Monseñor Pablo Cabrera - Mercedes de San Martín, ID: 98049"}, "geometry": {"type": "Point", "coordinates": [[-64.2074126377975, -31.3802085071281]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13060 - Av. Monseñor Pablo Cabrera - Facundo Quiroga, ID: 98050"}, "geometry": {"type": "Point", "coordinates": [[-64.2073053494369, -31.379562757557]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13070 - Av. Monseñor Pablo Cabrera - Los Granaderos, ID: 98051"}, "geometry": {"type": "Point", "coordinates": [[-64.206785000888, -31.3766591195273]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13080 - Av. Monseñor Pablo Cabrera - Zárate, ID: 98052"}, "geometry": {"type": "Point", "coordinates": [[-64.2066401616012, -31.3758393064248]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13090 - Av. Monseñor Pablo Cabrera - Padre Grenón, ID: 98053"}, "geometry": {"type": "Point", "coordinates": [[-64.2062807455932, -31.3739385948985]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13100 - Av. Monseñor Pablo Cabrera - Cristóbal Hicken, ID: 98054"}, "geometry": {"type": "Point", "coordinates": [[-64.2061251774703, -31.3730408960869]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13110 - Av. Monseñor Pablo Cabrera - Cardeñosa, ID: 98055"}, "geometry": {"type": "Point", "coordinates": [[-64.2057777196715, -31.3707055794761]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13111 - Av. Monseñor Pablo Cabrera - Suárez de Figueroa, ID: 98056"}, "geometry": {"type": "Point", "coordinates": [[-64.2054665834257, -31.3696337991506]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13120 - Av. Monseñor Pablo Cabrera - Fray Luis Beltrán, ID: 98057"}, "geometry": {"type": "Point", "coordinates": [[-64.2050844803725, -31.3673338959458]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13130 - Av. Monseñor Pablo Cabrera - Lazcano Colodrero, ID: 98058"}, "geometry": {"type": "Point", "coordinates": [[-64.2045480385696, -31.3642374972404]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13140 - Av. Monseñor Pablo Cabrera - Garat - CPC, ID: 98059"}, "geometry": {"type": "Point", "coordinates": [[-64.2041296139632, -31.3617044206723]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13141 - Av. Monseñor Pablo Cabrera - F. de Toledo Pimentel, ID: 98060"}, "geometry": {"type": "Point", "coordinates": [[-64.2041778937255, -31.3626342921521]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13150 - Av. Monseñor Pablo Cabrera - Mat Austral - Acevedo, ID: 98061"}, "geometry": {"type": "Point", "coordinates": [[-64.2037862912093, -31.360064526388]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13151 - Subregulador Matriceria Austral, ID: 98062"}, "geometry": {"type": "Point", "coordinates": [[-64.2036575451766, -31.3602477562192]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13160 - Av. Monseñor Pablo Cabrera - Mojica - Diego de Vera, ID: 98063"}, "geometry": {"type": "Point", "coordinates": [[-64.2033422738859, -31.3575135864888]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13170 - Av. JUAN B. JUSTO - CONSEJAL CABICHE, ID: 98064"}, "geometry": {"type": "Point", "coordinates": [[-64.1760576144134, -31.3761186848778]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13180 - AV. JUAN B JUSTO - AV, PARRAVICINI, ID: 98104"}, "geometry": {"type": "Point", "coordinates": [[-64.1760307923232, -31.3743828610359]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13190 - AV. JUAN B JUSTO - UNQUILLO, ID: 98105"}, "geometry": {"type": "Point", "coordinates": [[-64.1761112585937, -31.3724546391724]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13200 - AV. JUAN B JUSTO - AV. GRAL. MOSCONI, ID: 98106"}, "geometry": {"type": "Point", "coordinates": [[-64.1760951653396, -31.3699492656761]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13220 - AV. JUAN B JUSTO - AV. PABLO NERUDA, ID: 98109"}, "geometry": {"type": "Point", "coordinates": [[-64.1761112585937, -31.3680209528359]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13230 - AV. JUAN B. JUSTO - VICUÑA MACKENA, ID: 98110"}, "geometry": {"type": "Point", "coordinates": [[-64.1761166230117, -31.3635504126936]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13240 - JUAN B. JUSTO - AV. SAAVEDRA LAMAS, ID: 98112"}, "geometry": {"type": "Point", "coordinates": [[-64.1761768609831, -31.3614805401429]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 13250 - AV. JUAN B. JUSTO - ALFONSINA STORNI, ID: 98113"}, "geometry": {"type": "Point", "coordinates": [[-64.176155403311, -31.3542702713829]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14010 - Fuerza Aérea Argentina - Lanin, ID: 98114"}, "geometry": {"type": "Point", "coordinates": [[-64.2134207859908, -31.4303481592532]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14011 - AV. Fuerza Aérea Argentina - Sol de Mayo, ID: 98115"}, "geometry": {"type": "Point", "coordinates": [[-64.2140216008102, -31.4303939324645]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14020 - AV. Fuerza Aérea Argentina - Tronador, ID: 98116"}, "geometry": {"type": "Point", "coordinates": [[-64.2164677754317, -31.4305953343287]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14030 - AV. Fuerza Aérea Argentina - Vieytes, ID: 98117"}, "geometry": {"type": "Point", "coordinates": [[-64.2198473587905, -31.4308287768572]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14040 - AV. Fuerza Aérea Argentina - Padre Lozano, ID: 98118"}, "geometry": {"type": "Point", "coordinates": [[-64.2234415188705, -31.431117146237]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14050 - AV. Fuerza Aérea Argentina - Brown, ID: 98121"}, "geometry": {"type": "Point", "coordinates": [[-64.2250025645171, -31.431204114606]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 14060 - AV. Fuerza Aérea Argentina - Gaito, ID: 98123"}, "geometry": {"type": "Point", "coordinates": [[-64.2288327589904, -31.431465019229]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15070 - AV. Fuerza Aérea Argentina - Maestro Vidal, ID: 98126"}, "geometry": {"type": "Point", "coordinates": [[-64.2305386439239, -31.4315702963274]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15071 - AV. Fuerza Aérea Argentina - Domuyo, ID: 98127"}, "geometry": {"type": "Point", "coordinates": [[-64.2314452305709, -31.4316481097589]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15080 - AV. Fuerza Aérea Argentina - Aarón Castellanos, ID: 98129"}, "geometry": {"type": "Point", "coordinates": [[-64.2347133905241, -31.4318683900789]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15090 - AV. Fuerza Aérea Argentina - Fleming, ID: 98130"}, "geometry": {"type": "Point", "coordinates": [[-64.2359137907897, -31.4319364766185]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15100 - AV. Fuerza Aérea Argentina - De la Fuente, ID: 98131"}, "geometry": {"type": "Point", "coordinates": [[-64.237040318576, -31.4320051352639]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15110 - AV. Fuerza Aérea Argentina - Fournier, ID: 98132"}, "geometry": {"type": "Point", "coordinates": [[-64.2417931929504, -31.4323026554793]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 15120 - AV. Fuerza Aérea Argentina - Roque Arias, ID: 98133"}, "geometry": {"type": "Point", "coordinates": [[-64.2427051440154, -31.4323530049608]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 16130 - AV. Fuerza Aérea Argentina - Richardson, ID: 98134"}, "geometry": {"type": "Point", "coordinates": [[-64.2446953431045, -31.4324857443734]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 16140 - AV. Fuerza Aérea Argentina - Aviador Kingsley, ID: 98135"}, "geometry": {"type": "Point", "coordinates": [[-64.2469215765868, -31.4326367924418]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 16150 - Av. Fuerza Aérea Argentina - Pettirossi, ID: 98137"}, "geometry": {"type": "Point", "coordinates": [[-64.2480481043731, -31.4326962961595]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 16180 - Escuela de Suboficiales, ID: 98138"}, "geometry": {"type": "Point", "coordinates": [[-64.2560249939834, -31.4331952104603]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 16190 - Av. Fuerza Aérea Argentina - Fadea, ID: 98139"}, "geometry": {"type": "Point", "coordinates": [[-64.2639589682494, -31.4337353165268]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 16200 - Av. Fuerza Aérea Argentina - Escuela de Aviación, ID: 98140"}, "geometry": {"type": "Point", "coordinates": [[-64.2745281011412, -31.4344499224192]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17010 - Av. Colón - Bv. Del Carmen, ID: 98141"}, "geometry": {"type": "Point", "coordinates": [[-64.2276525870238, -31.4001375447542]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17020 - Av. Colón - salida del Makro, ID: 98142"}, "geometry": {"type": "Point", "coordinates": [[-64.2295086756621, -31.3995148263542]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17030 - Av. Colón - José M. Chávez, ID: 98143"}, "geometry": {"type": "Point", "coordinates": [[-64.2306727543746, -31.3991805713915]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17040 - Av. Colón - Pedro de Oñate, ID: 98144"}, "geometry": {"type": "Point", "coordinates": [[-64.2337519303237, -31.3981961149288]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17050 - Av. Colon - Av. Sagrada Familia, ID: 98145"}, "geometry": {"type": "Point", "coordinates": [[-64.23561338338, -31.3975916993343]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17060 - Av. Colón - Deán Funes, ID: 98146"}, "geometry": {"type": "Point", "coordinates": [[-64.2482948676025, -31.3963508036069]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17070 - Av. Colón - Domingo Irós, ID: 98147"}, "geometry": {"type": "Point", "coordinates": [[-64.2418522015487, -31.3960073793823]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17071 - Av. Colón - Victoria, ID: 98148"}, "geometry": {"type": "Point", "coordinates": [[-64.2406022921477, -31.3960394323631]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17080 - Av. Colón - Boulogne Sur Mer, ID: 98149"}, "geometry": {"type": "Point", "coordinates": [[-64.2445934191619, -31.3961411877463]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17090 - Av. Colón - Duarte Quiros, ID: 98150"}, "geometry": {"type": "Point", "coordinates": [[-64.2513418570434, -31.3964937694305]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17100 - Av. Colón - Av. Río Bamba, ID: 98151"}, "geometry": {"type": "Point", "coordinates": [[-64.2555475607787, -31.3953764930497]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17110 - Av. Colón - Pasco, ID: 98152"}, "geometry": {"type": "Point", "coordinates": [[-64.2578381672774, -31.3945431061078]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17120 - Av. Colón - ingreso Walmart, ID: 98153"}, "geometry": {"type": "Point", "coordinates": [[-64.2607403174316, -31.3944240502264]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17200 - AV. VÉLEZ SARSFIELD - PERÚ, ID: 98154"}, "geometry": {"type": "Point", "coordinates": [[-64.1929769888793, -31.4301157326744]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17210 - AV. VÉLEZ SARSFIELD - A OLMOS - PLAZA AMÉRICA, ID: 98155"}, "geometry": {"type": "Point", "coordinates": [[-64.1939801350509, -31.4325142247971]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17220 - AV. VÉLEZ SARSFIELD - MARTÍN FERREYRA, ID: 98156"}, "geometry": {"type": "Point", "coordinates": [[-64.1960186139022, -31.4383225325709]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17230 - AV. VÉLEZ SARSFIELD - ROMAGOSA, ID: 98157"}, "geometry": {"type": "Point", "coordinates": [[-64.1966569796477, -31.440354668735]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17240 - AV. VÉLEZ SARSFIELD - DESARROLLO SOCIAL, ID: 98158"}, "geometry": {"type": "Point", "coordinates": [[-64.1972148791228, -31.4422036912814]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17250 - AV. VÉLEZ SARSFIELD - DR. JOSÉ PIZARRO, ID: 98159"}, "geometry": {"type": "Point", "coordinates": [[-64.1989046708022, -31.4472654326879]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17260 - AV. VÉLEZ SARSFIELD - DR. C.FERREYRA, ID: 98160"}, "geometry": {"type": "Point", "coordinates": [[-64.1992653161833, -31.4482006222472]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17270 - AV. VÉLEZ SARSFIELD - DRAGO, ID: 98161"}, "geometry": {"type": "Point", "coordinates": [[-64.1995591298019, -31.44928364573]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17280 - AV. ARMADA ARGENTINA - TOMÁS BARO, ID: 98162"}, "geometry": {"type": "Point", "coordinates": [[-64.201206006137, -31.4508121500304]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17290 - AV. ARMADA ARGENTINA - DR. PASTOR TABOADA, ID: 98163"}, "geometry": {"type": "Point", "coordinates": [[-64.2043173685943, -31.4523269006459]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17300 - AV ARMADA ARGENTINA - VILLAVICENCIO, ID: 98164"}, "geometry": {"type": "Point", "coordinates": [[-64.208405055133, -31.4555073396002]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17310 - AV. ARMADA ARGENTINA - ESQUEL, ID: 98165"}, "geometry": {"type": "Point", "coordinates": [[-64.2115915194427, -31.4581934679447]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17320 - AV. ARMADA ARGENTINA - LLAO LLAO, ID: 98166"}, "geometry": {"type": "Point", "coordinates": [[-64.213447608081, -31.4588157967392]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17330 - AV. ARMADA ARGENTINA - CACHEUTA, ID: 98167"}, "geometry": {"type": "Point", "coordinates": [[-64.2153680697356, -31.4595479429674]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 17340 - AV. ARMADA ARGENTINA - LAGO ARGENTINO - DEFENSA, ID: 98168"}, "geometry": {"type": "Point", "coordinates": [[-64.2238438502227, -31.4665899821663]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18010 - AV. SABATTINI - CARNERILLO, ID: 98169"}, "geometry": {"type": "Point", "coordinates": [[-64.128802455989, -31.4377458372548]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18011 - AV. SABATTINI - EL FORTIN, ID: 98171"}, "geometry": {"type": "Point", "coordinates": [[-64.128088988391, -31.4389724547853]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18020 - AV. SABATTINI - TANCACHA, ID: 98172"}, "geometry": {"type": "Point", "coordinates": [[-64.1315168515121, -31.4347249942933]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18030 - AV. SABATTINI - PUNILLA, ID: 98173"}, "geometry": {"type": "Point", "coordinates": [[-64.1345799342071, -31.4329170189829]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18040 - AV. SABATTINI - ERNESTO BANCALARI, ID: 98174"}, "geometry": {"type": "Point", "coordinates": [[-64.1368705407058, -31.4322350141753]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18050 - AV. SABATTINI - LEARTES, ID: 98175"}, "geometry": {"type": "Point", "coordinates": [[-64.139069952098, -31.4316628586639]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18060 - AV. SABATTINI - CASTELLANOS, ID: 98176"}, "geometry": {"type": "Point", "coordinates": [[-64.1420364752685, -31.4331550329156]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18070 - AV. SABATTINI - RAMÓN OCAMPO, ID: 98177"}, "geometry": {"type": "Point", "coordinates": [[-64.1473365202819, -31.4333518516727]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18080 - AV. SABATTINI - TRISTÁN NARVAJA, ID: 98178"}, "geometry": {"type": "Point", "coordinates": [[-64.1485113278304, -31.4333243886151]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18090 - AV. SABATTINI - SARGENTO CABRAL, ID: 98179"}, "geometry": {"type": "Point", "coordinates": [[-64.151853360263, -31.4331275698004]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18100 - AV. SABATTINI - BARCELONA, ID: 98180"}, "geometry": {"type": "Point", "coordinates": [[-64.1571480408584, -31.4331275698004]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18101 - AV. SABATTINI/ - TUNEL, ID: 98181"}, "geometry": {"type": "Point", "coordinates": [[-64.157974161235, -31.4331641872856]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18110 - AV. SABATTINI - TOLOSA, ID: 98182"}, "geometry": {"type": "Point", "coordinates": [[-64.16392330083, -31.4317406720186]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18120 - AV. SABATINI - DR. RICARDO LUTI, ID: 98183"}, "geometry": {"type": "Point", "coordinates": [[-64.1676301136886, -31.4307290933697]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18130 - AV. SABATTINI - A.C.A, ID: 98184"}, "geometry": {"type": "Point", "coordinates": [[-64.1719162836944, -31.4275386584433]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18140 - AV. SABATTINI - BAJADA PUCARA, ID: 98185"}, "geometry": {"type": "Point", "coordinates": [[-64.1698509827529, -31.4292780768845]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 18150 - BAJADA PUCARA - FERROVIARIOS, ID: 98186"}, "geometry": {"type": "Point", "coordinates": [[-64.1695720330154, -31.4282481619674]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 09110 - Fray M. Esquiú - Potosí, ID: 98212"}, "geometry": {"type": "Point", "coordinates": [[-64.1753998213153, -31.402526119863]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 1212 - OCTAVIO PINTO - QUINTANA, ID: 98213"}, "geometry": {"type": "Point", "coordinates": [[-64.221458714519, -31.383989793124]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 1214 - OCTAVIO PINTO - SAGRADA FAMILIA, ID: 98214"}, "geometry": {"type": "Point", "coordinates": [[-64.2233577185016, -31.3826754432934]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 1326 - AV. JUAN B. JUSTO - JORGE E. NEWBERY, ID: 98215"}, "geometry": {"type": "Point", "coordinates": [[-64.1761562042575, -31.3530037981859]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 04120 - San José de Calasanz - Deán Funes, ID: 98218"}, "geometry": {"type": "Point", "coordinates": [[-64.1961601190906, -31.4124292822774]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 06010 - Deán Funes - Fragueiro, ID: 98219"}, "geometry": {"type": "Point", "coordinates": [[-64.1934832744937, -31.4132121506763]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07010 - Rosario de Santa Fe - Ituzaingó, ID: 98220"}, "geometry": {"type": "Point", "coordinates": [[-64.1813435964923, -31.4167922024447]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07020 - Av. Maipú - Rosario de Santa Fe, ID: 98221"}, "geometry": {"type": "Point", "coordinates": [[-64.1799863987308, -31.4171904862036]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 07110 - Independencia - Entre Ríos, ID: 98222"}, "geometry": {"type": "Point", "coordinates": [[-64.1849678383551, -31.4182882374758]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 11250 - Plaza España, ID: 98223"}, "geometry": {"type": "Point", "coordinates": [[-64.1848390923224, -31.428468958823]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 330 - Intermitente (escuela) Almirante Brown - Julián Aguirre, ID: 98224"}, "geometry": {"type": "Point", "coordinates": [[-64.222401641382, -31.4213146328903]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 705 - Cura Brochero - República de Siria, ID: 98225"}, "geometry": {"type": "Point", "coordinates": [[-64.1713538394106, -31.3914796586653]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 568 - Santa Ana - Perrirossi, ID: 98226"}, "geometry": {"type": "Point", "coordinates": [[-64.2481240258348, -31.4119282227339]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 620 - Mariano Fragueiro - General Bustos, ID: 98227"}, "geometry": {"type": "Point", "coordinates": [[-64.1880660505558, -31.4012527929895]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 600 - Bulnes - Roma, ID: 98228"}, "geometry": {"type": "Point", "coordinates": [[-64.1688218341005, -31.398980119556]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 906 - Santa Ana - Alto Alegre - Mariano Rosas, ID: 98229"}, "geometry": {"type": "Point", "coordinates": [[-64.2638908329536, -31.4115484202381]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 537 - Bartolomé Argensola - Mariano Fragueiro, ID: 98230"}, "geometry": {"type": "Point", "coordinates": [[-64.1838207469118, -31.3816750392721]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 504 - Sagrada Familia - Costanera, ID: 98231"}, "geometry": {"type": "Point", "coordinates": [[-64.2329695449007, -31.3917650961839]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 908 - RICARDO ROJAS - LINDOR FERREYRA, ID: 98232"}, "geometry": {"type": "Point", "coordinates": [[-64.2550783605839, -31.3414170517577]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 909 - RICARDO ROJAS - RAMÓN Y CAJAL (PLAZA), ID: 98233"}, "geometry": {"type": "Point", "coordinates": [[-64.2568312588264, -31.3403389557822]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 910 - RICARDO ROJAS - FRANCISCO VIDAL, ID: 98234"}, "geometry": {"type": "Point", "coordinates": [[-64.2600350828434, -31.3384297629302]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 911 - RICARDO ROJAS 7347, ID: 98235"}, "geometry": {"type": "Point", "coordinates": [[-64.2608162388933, -31.3374384971654]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 912 - RICARDO ROJAS - HERIBERTO MARTINEZ (YPF), ID: 98236"}, "geometry": {"type": "Point", "coordinates": [[-64.2625349016453, -31.3364595665559]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 913 - RICARDO ROJAS - MOCOVIES, ID: 98237"}, "geometry": {"type": "Point", "coordinates": [[-64.2650883646274, -31.3351399701035]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 914 - RICARDO ROJAS - TOMAS GARZON, ID: 98238"}, "geometry": {"type": "Point", "coordinates": [[-64.2671375723148, -31.3349841831899]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 915 - RICARDO ROJAS - ANTEQUERA Y CASTRO, ID: 98239"}, "geometry": {"type": "Point", "coordinates": [[-64.2695944757725, -31.334791740176]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 916 - RICARDO ROJAS - HUARPES, ID: 98240"}, "geometry": {"type": "Point", "coordinates": [[-64.2711051926744, -31.3345014839854]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 917 - RICARDO ROJAS - ENRIQUE UDAONDO, ID: 98241"}, "geometry": {"type": "Point", "coordinates": [[-64.2724376173283, -31.3347184284481]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 918 - RICARDO ROJAS - BUITRAGO - TUTI CUSI, ID: 98242"}, "geometry": {"type": "Point", "coordinates": [[-64.2734353990818, -31.3350483307738]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 919 - RICARDO ROJAS - VIRACOCHA, ID: 98243"}, "geometry": {"type": "Point", "coordinates": [[-64.2776625604893, -31.336615351027]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 920 - PADRE CLARET - INGRESO COLEGIO PADRE CLARET (PEATONAL), ID: 98244"}, "geometry": {"type": "Point", "coordinates": [[-64.2382964120043, -31.3574819656857]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 921 - BV LOS ALEMANES - SPILIMBERGO, ID: 98245"}, "geometry": {"type": "Point", "coordinates": [[-64.2257060855627, -31.3433627730321]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 922 - BV PERON - 25 DE MAYO, ID: 98246"}, "geometry": {"type": "Point", "coordinates": [[-64.17621068671, -31.417093903788]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 923 - BV OCAMPO - 25 DE MAYO, ID: 98247"}, "geometry": {"type": "Point", "coordinates": [[-64.1728236899507, -31.4167810118244]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 925 - DEAN FUNES - COLON, ID: 98248"}, "geometry": {"type": "Point", "coordinates": [[-64.2480864749086, -31.3962556624643]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 926 - AGUSTIN GARZON - LETIZIA, ID: 98249"}, "geometry": {"type": "Point", "coordinates": [[-64.1662650556827, -31.4239606062766]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 927 - PUENTE LETIZIA - COSTANERA SUR, ID: 98250"}, "geometry": {"type": "Point", "coordinates": [[-64.1659968347813, -31.4229168998991]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 928 - PUENTE LETIZIA - COSTANERA NORTE, ID: 98251"}, "geometry": {"type": "Point", "coordinates": [[-64.165656827463, -31.4221096344254]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 279 - ARMADA ARGENTINA - Av. RENAULT - BOGOTA, ID: 98252"}, "geometry": {"type": "Point", "coordinates": [[-64.2312046513689, -31.4728491279196]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 283 - FUERZA AEREA ARG. - CIRCUNVALACION 1, ID: 98253"}, "geometry": {"type": "Point", "coordinates": [[-64.2525228486193, -31.4332125020088]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 284 - FUERZA AEREA ARG. - CIRCUNVALACION 2, ID: 98254"}, "geometry": {"type": "Point", "coordinates": [[-64.253204129709, -31.433235387918]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 512 - MONSEÑOR PABLO CABRERA - AV. JAPON, ID: 98255"}, "geometry": {"type": "Point", "coordinates": [[-64.2084937544132, -31.3350076021697]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 667 - MONSEÑOR PABLO CABRERA - Bv. LOS ALEMANES, ID: 98256"}, "geometry": {"type": "Point", "coordinates": [[-64.2078285665775, -31.3431814828595]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 642 - ARMADA ARGENTINA - COTTOLENGO, ID: 98257"}, "geometry": {"type": "Point", "coordinates": [[-64.2349275574816, -31.4759582101061]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 690 - ARMADA ARGENTINA - CINCINATTI - CUMBRE DEL PRECHEL, ID: 98258"}, "geometry": {"type": "Point", "coordinates": [[-64.2272263021732, -31.4694837833499]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 691 - ARMADA ARGENTINA - CAJAMARCA - AMERICA CENTRAL, ID: 98259"}, "geometry": {"type": "Point", "coordinates": [[-64.2392673716677, -31.4795267153784]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 717 - RUTA 9 (S) - CANGALLO, ID: 98260"}, "geometry": {"type": "Point", "coordinates": [[-64.1193136201036, -31.4489200756741]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 929 - Los Alemanes - Ambrosio Taravella - Jorge Delpech, ID: 132030"}, "geometry": {"type": "Point", "coordinates": [[-64.2444936186075, -31.3433455921661]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 764 - Bv. Los Alemanes - Doering, ID: 140192"}, "geometry": {"type": "Point", "coordinates": [[-64.2468103766441, -31.343315811991]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 764 - Bv. Los Alemanes - Doering, ID: 140193"}, "geometry": {"type": "Point", "coordinates": [[-64.2468103766441, -31.343315811991]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 764 - Bv. Los Alemanes - Doering, ID: 140194"}, "geometry": {"type": "Point", "coordinates": [[-64.2468103766441, -31.343315811991]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 359 - Vélez sarsfield - Taboada - Guardado, ID: 140696"}, "geometry": {"type": "Point", "coordinates": [[-64.2007568478584, -31.4530695212345]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 304 - Luis Agote - Río Negro, ID: 144831"}, "geometry": {"type": "Point", "coordinates": [[-64.210317581892, -31.4276266155949]]}}
+{"type": "Feature", "properties": {"Name": "nombre: 903 - Valparaíso - Teniente Mario Nivoli, ID: 429454"}, "geometry": {"type": "Point", "coordinates": [[-64.1886221989989, -31.4771147168542]]}}
