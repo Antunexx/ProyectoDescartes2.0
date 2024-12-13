@@ -111,7 +111,8 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.256108,-31.340423,0]},"properties":{"name":"HPA Cura Brochero","description":"Av. Ricardo Rojas 6950 - Bº Arguello<br>Atención 24 hs<br>TE: 03543407299"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.163964,-31.394154,0]},"properties":{"name":"HPA COMIPAZ","description":"Av. del Trabajo 830 - Bº Talleres Oeste<br>Atención 24 hs<br>TE: s/n"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.252803,-31.433919,0]},"properties":{"name":"HPA Madre Teresa de Calcuta","description":"Av. Fuerza Aerea Argentina 5085 - Bº Villa Adela<br>Atención 24 hs<br>TE: 03514831676"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.135184,-31.406583,0]},"properties":{"name":"HPA Madre San Jorge","description":"Ramon Bautista Mestre 5850 - Bº Maldono<br>Atención 24 hs<br>TE: 03513279181"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.135184,-31.406583,0]},"properties":{"name":"HPA Madre San Jorge","description":"Ramon Bautista Mestre 5850 - Bº Maldono<br>Atención 24 hs<br>TE: 03513279181"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.241410,-31.395734,0]},"properties":{"name":"SERVICIO ODONTOLOGICO MUNICIPAL SOM","description":"Cumpeo - Bº Villa Urquiza<br>Atención 24 hs<br>TE: 03515313782"}}
 
 
 
