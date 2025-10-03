@@ -24,7 +24,7 @@ Proyecto en Python que integra múltiples capas de datos geoespaciales en un map
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/visualizacion-geoespacial.git
+   git clone https://github.com/Antunexx/ProyectoDescartes2.0.git
 
 Instalar dependencias:
 
