@@ -9,7 +9,7 @@ Proyecto en Python que integra múltiples capas de datos geoespaciales en un map
 ## Tecnologías
 - Python 3
 - Folium
-- PyQt5
+- HTML
 - GeoJSON
 
 ## Funcionalidades
@@ -20,7 +20,6 @@ Proyecto en Python que integra múltiples capas de datos geoespaciales en un map
   - Densidad poblacional
   - Semáforos
   - Entidades con/sin sede
-- Interfaz interactiva con PyQt5.
 
 ## Instalación
 1. Clonar el repositorio:
